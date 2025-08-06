@@ -331,7 +331,7 @@
 - [StackExchange/dnscontrol](https://github.com/StackExchange/dnscontrol) - Infrastructure as code for DNS!
 - [StackExchange/blackbox](https://github.com/StackExchange/blackbox) - Safely store secrets in Git/Mercurial/Subversion
 - [prometheus/blackbox_exporter](https://github.com/prometheus/blackbox_exporter) - Blackbox prober exporter
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
 - [anchore/syft](https://github.com/anchore/syft) - CLI tool and library for generating a Software Bill of Materials from container images and filesystems
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [google/capslock](https://github.com/google/capslock) - 
@@ -544,6 +544,7 @@
 - [alibaba/higress](https://github.com/alibaba/higress) - 🤖 AI Gateway | AI Native API Gateway
 - [fluxcd/flagger](https://github.com/fluxcd/flagger) - Progressive delivery Kubernetes operator (Canary, A/B Testing and Blue/Green deployments)
 - [usememos/memos](https://github.com/usememos/memos) - A modern, open-source, self-hosted knowledge management and note-taking platform designed for privacy-conscious users and organizations.
+- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [profefe/profefe](https://github.com/profefe/profefe) - Continuous profiling for long-term postmortem analysis
@@ -841,7 +842,7 @@
 - [apache/maven-mvnd](https://github.com/apache/maven-mvnd) - Apache Maven Daemon
 - [apache/skywalking-java](https://github.com/apache/skywalking-java) - The Java agent for Apache SkyWalking
 - [sofastack/sofa-bolt](https://github.com/sofastack/sofa-bolt) - SOFABolt is a lightweight, easy to use and high performance remoting framework based on Netty.
-- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a next-generation super high-performance, distributed, massive data integration tool.
+- [apache/seatunnel](https://github.com/apache/seatunnel) - SeaTunnel is a multimodal, high-performance, distributed, massive data integration tool.
 - [operator-framework/java-operator-sdk](https://github.com/operator-framework/java-operator-sdk) - Java SDK for building Kubernetes Operators
 - [apache/logging-log4j2](https://github.com/apache/logging-log4j2) - Apache Log4j is a versatile, feature-rich, efficient logging API and backend for Java.
 - [alibaba/tamper](https://github.com/alibaba/tamper) - A Java Bean to Java Bean mapper that recursively copies data from one object to another
@@ -1166,7 +1167,6 @@
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [Autodesk/react-base-table](https://github.com/Autodesk/react-base-table) - A react table component to display large datasets with high performance and flexibility
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
-- [terrastruct/d2](https://github.com/terrastruct/d2) - D2 is a modern diagram scripting language that turns text to diagrams.
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text
 - [borisyankov/react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
 - [tomkp/react-split-pane](https://github.com/tomkp/react-split-pane) - React split-pane component
@@ -1384,6 +1384,7 @@
 
 ## Jupyter Notebook 
 
+- [huggingface/ai-blueprint](https://github.com/huggingface/ai-blueprint) - A blueprint for AI development, focusing on applied examples of RAG, information extraction, analysis and fine-tuning in the age of LLMs and agents.
 - [Arize-ai/phoenix](https://github.com/Arize-ai/phoenix) - AI Observability & Evaluation
 - [microsoft/OmniParser](https://github.com/microsoft/OmniParser) - A simple screen parsing tool towards pure vision based GUI agent
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 11 Lessons to Get Started Building AI Agents
@@ -1571,6 +1572,13 @@
 
 ## Python 
 
+- [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
+- [Bessouat40/RAGLight](https://github.com/Bessouat40/RAGLight) - RAGLight is a lightweight and modular Python library for implementing Retrieval-Augmented Generation (RAG), Agentic RAG and RAT (Retrieval augmented thinking)..
+- [modelscope/data-juicer](https://github.com/modelscope/data-juicer) - Data processing for and with foundation models!  🍎 🍋 🌽 ➡️ ➡️🍸 🍹 🍷
+- [modelscope/Trinity-RFT](https://github.com/modelscope/Trinity-RFT) - Trinity-RFT is a general-purpose, flexible and scalable framework designed for reinforcement fine-tuning (RFT) of large language models (LLM).
+- [google/adk-samples](https://github.com/google/adk-samples) - A collection of sample agents built with Agent Development (ADK)
+- [Palashio/libra](https://github.com/Palashio/libra) - Ergonomic machine learning for everyone.
+- [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - Evaluate and Enhance Your LLM Deployments for Real-World Inference Needs
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Cutting-edge LLM Inference Optimizations
 - [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
 - [AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText) - Implementation of "FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing"
@@ -1655,7 +1663,7 @@
 - [AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot) - ✨ 易上手的多平台 LLM 聊天机器人及开发框架 ✨ 支持 QQ、QQ频道、Telegram、企微、飞书、钉钉 | 知识库、MCP 服务器、OpenAI、DeepSeek、Gemini、硅基流动、月之暗面、Ollama、OneAPI、Dify
 - [TangBaron/GRPO](https://github.com/TangBaron/GRPO) - 利用TRL库和自定义奖励函数实现GRPO算法完整流程，使Qwen2.5-0.5B-Instruct模型同样具备数学思维能力！
 - [wandb/wandb](https://github.com/wandb/wandb) - The AI developer platform. Use Weights & Biases to train and fine-tune models, and manage models from experimentation to production.
-- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
+- [unslothai/unsloth](https://github.com/unslothai/unsloth) - Fine-tuning & Reinforcement Learning for LLMs. 🦥 Train gpt-oss, Qwen3, Llama 4, DeepSeek-R1, Gemma 3, TTS 2x faster with 70% less VRAM.
 - [SwanHubX/SwanLab](https://github.com/SwanHubX/SwanLab) - ⚡️SwanLab - an open-source, modern-design AI training tracking and visualization tool. Supports Cloud / Self-hosted use. Integrated with PyTorch / Transformers / LLaMA Factory / veRL/ Swift / Ultralyt
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [ray-project/ray](https://github.com/ray-project/ray) - Ray is an AI compute engine. Ray consists of a core distributed runtime and a set of AI Libraries for accelerating ML workloads.
@@ -1720,7 +1728,6 @@
 - [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot) - FauxPilot - an open-source alternative to GitHub Copilot server
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - Python SDK, Proxy Server (LLM Gateway) to call 100+ LLM APIs in OpenAI format - [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, Replicate, Groq]
 - [oobabooga/text-generation-webui](https://github.com/oobabooga/text-generation-webui) - LLM UI with advanced features, easy setup, and multiple backend support.
-- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [trypromptly/LLMStack](https://github.com/trypromptly/LLMStack) - No-code multi-agent framework to build LLM Agents, workflows and applications with your data
 - [qodo-ai/pr-agent](https://github.com/qodo-ai/pr-agent) - 🚀 PR-Agent (Qodo Merge open-source): An AI-Powered 🤖 Tool for Automated Pull Request Analysis, Feedback, Suggestions and More! 💻🔍
 - [zai-org/CodeGeeX2](https://github.com/zai-org/CodeGeeX2) - CodeGeeX2: A More Powerful Multilingual Code Generation Model
@@ -1938,6 +1945,8 @@
 
 ## TypeScript 
 
+- [ariana-dot-dev/ariana-ide](https://github.com/ariana-dot-dev/ariana-ide) - The IDE of the future
+- [ariana-dot-dev/ariana](https://github.com/ariana-dot-dev/ariana) - Observability and runtime visualization for JS/TS/Python code with zero code change
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent is the World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
@@ -2058,6 +2067,7 @@
 - [sourcegraph/cody-public-snapshot](https://github.com/sourcegraph/cody-public-snapshot) - Type less, code more: Cody is an AI code assistant that uses advanced search and codebase context to help you write and fix code.
 - [twinnydotdev/twinny](https://github.com/twinnydotdev/twinny) - The most no-nonsense, locally or API-hosted AI code completion plugin for Visual Studio Code - like GitHub Copilot but 100% free.
 - [msgbyte/tianji](https://github.com/msgbyte/tianji) - Tianji: Insight into everything, Website Analytics + Uptime Monitor + Server Status. not only another GA alternatives
+- [infiniflow/ragflow](https://github.com/infiniflow/ragflow) - RAGFlow is an open-source RAG (Retrieval-Augmented Generation) engine based on deep document understanding.
 - [msgbyte/tailchat](https://github.com/msgbyte/tailchat) - Next generation noIM application in your own workspace, not only another Slack/Discord/Rocket.chat
 - [opensumi/codeblitz](https://github.com/opensumi/codeblitz) - Pure front-end IDE framework based on OpenSumi
 - [pavlobu/deskreen](https://github.com/pavlobu/deskreen) - Deskreen turns any device with a web browser into a secondary screen for your computer. ⭐️ Star to support our work!
