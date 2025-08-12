@@ -548,7 +548,7 @@
 - [open-telemetry/opentelemetry-collector](https://github.com/open-telemetry/opentelemetry-collector) - OpenTelemetry Collector
 - [profefe/profefe](https://github.com/profefe/profefe) - Continuous profiling for long-term postmortem analysis
 - [prometheus/prometheus](https://github.com/prometheus/prometheus) - The Prometheus monitoring system and time series database.
-- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for ValKey & Redis Metrics. Supports ValKey 7.x & 8.x and Redis 2.x, 3.x, 4.x, 5.x, 6.x, 7.x, and 8.x
+- [oliver006/redis_exporter](https://github.com/oliver006/redis_exporter) - Prometheus Exporter for Valkey & Redis Metrics. Supports Valkey 7.x & 8.x and Redis 2.x, 3.x, 4.x, 5.x, 6.x, 7.x, and 8.x
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [apache/apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) - APISIX Ingress Controller for Kubernetes
@@ -1568,6 +1568,7 @@
 
 ## Python 
 
+- [kubeflow/trainer](https://github.com/kubeflow/trainer) - Distributed ML Training and Fine-Tuning on Kubernetes
 - [jvxiao/speed-github](https://github.com/jvxiao/speed-github) - 一键解决github在国内网页加载和下载速度慢的问题
 - [huggingface/smolagents](https://github.com/huggingface/smolagents) - 🤗 smolagents: a barebones library for agents that think in code.
 - [Bessouat40/RAGLight](https://github.com/Bessouat40/RAGLight) - RAGLight is a lightweight and modular Python library for implementing Retrieval-Augmented Generation (RAG), Agentic RAG and RAT (Retrieval augmented thinking)..
