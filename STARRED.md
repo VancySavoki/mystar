@@ -279,6 +279,7 @@
 
 ## Go 
 
+- [vulcand/oxy](https://github.com/vulcand/oxy) - Go middlewares for HTTP servers & proxies
 - [spiffe/spire](https://github.com/spiffe/spire) - The SPIFFE Runtime Environment
 - [okteto/okteto](https://github.com/okteto/okteto) - Develop your applications directly in your Kubernetes Cluster
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1645,6 +1646,8 @@
 
 ## Python 
 
+- [jd-opensource/OxyGent](https://github.com/jd-opensource/OxyGent) - Multi-agent collaboration framework
+- [camel-ai/owl](https://github.com/camel-ai/owl) - 🦉 OWL: Optimized Workforce Learning for General Multi-Agent Assistance in Real-World Task Automation
 - [tiangolo/dockerswarm.rocks](https://github.com/tiangolo/dockerswarm.rocks) - Docker Swarm mode rocks! Ideas, tools and recipes. Get a production-ready, distributed, HTTPS served, cluster in minutes, not weeks.
 - [hsliuping/TradingAgents-CN](https://github.com/hsliuping/TradingAgents-CN) - 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版
 - [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
@@ -2114,8 +2117,8 @@
 - [artifacthub/hub](https://github.com/artifacthub/hub) - Find, install and publish Cloud Native packages
 - [modelscope/modelscope-studio](https://github.com/modelscope/modelscope-studio) - A third-party component library based on Gradio. Integrates Ant Design, Ant Design X, and more advanced components to help you build applications efficiently.
 - [richardgill/llm-ui](https://github.com/richardgill/llm-ui) - The React library for LLMs
-- [ariana-dot-dev/ariana-ide](https://github.com/ariana-dot-dev/ariana-ide) - The IDE of the future
-- [ariana-dot-dev/ariana](https://github.com/ariana-dot-dev/ariana) - Observability and runtime visualization for JS/TS/Python code with zero code change
+- [ariana-dot-dev/ariana](https://github.com/ariana-dot-dev/ariana) - The IDE of the future
+- [ariana-dot-dev/ariana-debugger](https://github.com/ariana-dot-dev/ariana-debugger) - Observability and runtime visualization for JS/TS/Python code with zero code change
 - [eigent-ai/eigent](https://github.com/eigent-ai/eigent) - Eigent: The World's First Multi-agent Workforce to Unlock Your Exceptional Productivity.
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
 - [Helicone/helicone](https://github.com/Helicone/helicone) - 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓
