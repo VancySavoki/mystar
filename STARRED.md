@@ -52,6 +52,7 @@
 - [Scala](#scala)
 - [Shell](#shell)
 - [Starlark](#starlark)
+- [SurrealQL](#surrealql)
 - [Svelte](#svelte)
 - [Swift](#swift)
 - [TeX](#tex)
@@ -850,6 +851,7 @@
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
 - [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba) - Agentic AI Framework for Java Developers
 - [google/adk-java](https://github.com/google/adk-java) - An open-source, code-first Java toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
+- [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 - [iflytek/astron-agent](https://github.com/iflytek/astron-agent) - Enterprise-grade, commercial-friendly agentic workflow platform for building next-generation SuperAgents.
 - [open-telemetry/opentelemetry-java](https://github.com/open-telemetry/opentelemetry-java) - OpenTelemetry Java SDK
 - [nagisa77/OpenIsle](https://github.com/nagisa77/OpenIsle) - 完全开源的社区平台
@@ -1251,6 +1253,7 @@
 
 - [liujuntao123/smart-mermaid](https://github.com/liujuntao123/smart-mermaid) - 一款基于 AI 技术的 Web 应用程序，可将文本内容智能转换为 Mermaid 格式的代码，并将其渲染成可视化图表。
 - [liujuntao123/smart-draw](https://github.com/liujuntao123/smart-draw) - Draw any professional and beautiful diagram you can imagine in the simplest way
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [veasion/AiPPT](https://github.com/veasion/AiPPT) - AI 智能生成 PPT，通过主题/文件/网址等方式生成PPT，支持原生图表、动画、3D特效等复杂PPT的解析和渲染，支持用户自定义模板，支持智能添加动画，可在线体验。AI generates PowerPoint Presentation, Supports parsing and rendering of complex PPT features such as native charts, a
 - [WtecHtec/snapwrite](https://github.com/WtecHtec/snapwrite) - 专注微信公众号的 AI 自动排版工具。一键将文本转化为精美移动端布局，支持实时手机预览与富文本一键复制。
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
@@ -1810,9 +1813,9 @@
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
-- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - How can we build a true AI agent? Like Claude Code.
+- [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you & agent need - Learn Agent by writing a Claude Code with only 16 line code
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
-- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - Managing long-term, working, and external memory with OS-level scheduling, retrieval, and updates.
+- [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - OS-Level Memory Layer for LLMs, AI Agents & Multi-Agent Systems with long-term, working, and external memory.
 - [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - UltraRAG v3: A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: AI-Powered Personalized Learning Assistant"
@@ -1873,7 +1876,6 @@
 - [google/adk-python](https://github.com/google/adk-python) - An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control.
 - [onyx-dot-app/onyx](https://github.com/onyx-dot-app/onyx) - Open Source AI Platform - AI Chat with advanced features that works with every LLM
 - [inclusionAI/AReaL](https://github.com/inclusionAI/AReaL) - Lightning-Fast RL for LLM Reasoning and Agents. Made Simple & Flexible.
-- [iflytek/astron-rpa](https://github.com/iflytek/astron-rpa) - Agent-ready RPA suite with out-of-the-box automation tools. Built for individuals and enterprises.
 - [1Panel-dev/MaxKB](https://github.com/1Panel-dev/MaxKB) - 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。
 - [agentscope-ai/agentscope-runtime](https://github.com/agentscope-ai/agentscope-runtime) - A production-ready runtime framework for agent apps with secure tool sandboxing, Agent-as-a-Service APIs, scalable deployment, full-stack observability, and broad framework compatibility.
 - [agentscope-ai/ReMe](https://github.com/agentscope-ai/ReMe) - ReMe: Memory Management Kit for Agents - Remember Me, Refine Me.
@@ -2181,7 +2183,7 @@
 - [toeverything/OctoBase](https://github.com/toeverything/OctoBase) - 🐙 OctoBase is the open-source database behind AFFiNE, local-first, yet collaborative. A light-weight, scalable, data engine written in Rust.
 - [fjall-rs/lsm-tree](https://github.com/fjall-rs/lsm-tree) - K.I.S.S. LSM-tree implementation in safe Rust
 - [yoav-lavi/melody](https://github.com/yoav-lavi/melody) - Melody is a language that compiles to regular expressions and aims to be more readable and maintainable
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex & Gemini CLI.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [imsnif/diskonaut](https://github.com/imsnif/diskonaut) - Terminal disk space navigator 🔭
 - [fjall-rs/fjall](https://github.com/fjall-rs/fjall) - 🗻 Log-structured, embeddable key-value storage engine written in Rust
@@ -2273,7 +2275,6 @@
 
 ## Shell 
 
-- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner.
 - [tw93/Mole](https://github.com/tw93/Mole) - 🐹 Deep clean and optimize your Mac.
 - [actuallymentor/battery](https://github.com/actuallymentor/battery) - CLI/GUI for managing the battery charging status for Apple silicon (M1, M2, M3) Macs
 - [buildermethods/agent-os](https://github.com/buildermethods/agent-os) - Agent OS is a system for injecting your codebase standards and writing better specs for spec-driven development.
@@ -2322,6 +2323,10 @@
 
 - [GoogleContainerTools/distroless](https://github.com/GoogleContainerTools/distroless) - 🥑  Language focused docker images, minus the operating system.
 
+## SurrealQL 
+
+- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
+
 ## Svelte 
 
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
@@ -2355,6 +2360,8 @@
 
 ## TypeScript 
 
+- [ReactTooltip/react-tooltip](https://github.com/ReactTooltip/react-tooltip) - React Tooltip Component
+- [anthropic-experimental/sandbox-runtime](https://github.com/anthropic-experimental/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [shenpeiheng/ai-smart-draw](https://github.com/shenpeiheng/ai-smart-draw) - ai-smart-draw
 - [openworkflowdev/openworkflow](https://github.com/openworkflowdev/openworkflow) - Open-source TypeScript framework for building durable, resumable workflows.
@@ -2622,7 +2629,7 @@
 - [leptonai/search_with_lepton](https://github.com/leptonai/search_with_lepton) - Building a quick conversation-based search demo with Lepton AI.
 - [onenov/search_with_ai](https://github.com/onenov/search_with_ai) - 🤖 Free Search with AI, 💡 Open-Source Perplexity, 📍 Support Ollama/SearXNG, Support Docker deployment.  让AI大模型和搜索引擎回答你的问题，支持本地大模型(Ollama)、聚合搜索引擎SearXNG，支持Docker一键部署。
 - [sear-chat/SearChat](https://github.com/sear-chat/SearChat) - Search + Chat = SearChat(AI Chat with Search), Support OpenAI/Anthropic/VertexAI/Gemini, DeepResearch, SearXNG, Docker.  AI对话式搜索引擎，支持DeepResearch, 支持OpenAI/Anthropic/VertexAI/Gemini接口、聚合搜索引擎SearXNG，支持
-- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine. It is an Open source alternative to Perplexity AI
+- [ItzCrazyKns/Perplexica](https://github.com/ItzCrazyKns/Perplexica) - Perplexica is an AI-powered answering engine.
 - [labring/FastGPT](https://github.com/labring/FastGPT) - FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letti
 - [vuejs/devtools-v6](https://github.com/vuejs/devtools-v6) - ⚙️ Browser devtools extension for debugging Vue.js applications.
 - [smallcloudai/refact-vscode](https://github.com/smallcloudai/refact-vscode) - Refact - Open-Source AI Agent, Code Generator & Chat for JavaScript, Python, TypeScript, Java, PHP, Go, and more.
@@ -2810,7 +2817,6 @@
 - [streamich/memfs](https://github.com/streamich/memfs) - Node.js "fs" and browser "File System API" adapters and in-memory implementations 👍
 - [wasmerio/webassembly.sh](https://github.com/wasmerio/webassembly.sh) - Open-source and installable PWA terminal powered by WebAssembly, WAPM, and Wasmer-JS  🖥
 - [brick-design/brick-design](https://github.com/brick-design/brick-design) - 低代码框架，支持流式布局与自由布局拖拽编排，可视化拖拽、随意嵌套组合、实时渲染、实时辅助线展示、自由布局支持辅助对齐、支持自动吸附、实时组件间距展示、实时拖拽排序、状态域管理，可视化属性配置、可视化样式配置、多设备适配展示，支持逻辑渲染、模板字符变量、表达式、自定义方法、自定义状态
-- [beekeeper-studio/beekeeper-studio](https://github.com/beekeeper-studio/beekeeper-studio) - Modern and easy to use SQL client for MySQL, Postgres, SQLite, SQL Server, and more. Linux, MacOS, and Windows.
 - [microsoft/WebTemplateStudio](https://github.com/microsoft/WebTemplateStudio) - Microsoft Web Template Studio quickly builds web applications using a wizard-based UI to turn your needs into a foundation of best patterns and practices
 - [doodlewind/jshistory-cn](https://github.com/doodlewind/jshistory-cn) - 🇨🇳 《JavaScript 二十年》中文版
 - [bokuweb/re-resizable](https://github.com/bokuweb/re-resizable) - 📏  A resizable component for React.
