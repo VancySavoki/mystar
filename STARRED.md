@@ -2493,7 +2493,7 @@
 - [YOOTeam/OpenPPT](https://github.com/YOOTeam/OpenPPT) - AIPPT Online editor，Base On ChatPPT， supports document editing services throughout the entire process, including import, export, layout beautification, online editing, playback, and presentation anima
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [langwatch/better-agents](https://github.com/langwatch/better-agents) - Standards for building agents, better
-- [bubblelabai/BubbleLab](https://github.com/bubblelabai/BubbleLab) - Open source workflow automation platform built for developers - full observability and code exportability!
+- [bubblelabai/BubbleLab](https://github.com/bubblelabai/BubbleLab) - Open-core workflow engine powering Bubble Lab — and fully runnable, hostable, and extensible on its own.
 - [FullAgent/fulling](https://github.com/FullAgent/fulling) - Fulling is an AI-powered Full-stack Engineer Agent. Built with Next.js, Claude, shadcn/ui, and PostgreSQL. Use kubernetes as infra.
 - [YouMind-OpenLab/awesome-gemini-3-prompts](https://github.com/YouMind-OpenLab/awesome-gemini-3-prompts) - ♊ 50+ selected Gemini prompts with images, multilingual support, and instant gallery preview. Open-source prompt engineering library
 - [antvis/G](https://github.com/antvis/G) - 💥 A flexible rendering engine for visualization.
