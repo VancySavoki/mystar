@@ -426,7 +426,7 @@
 - [kubeshop/testkube](https://github.com/kubeshop/testkube) - ☸️ Kubernetes-native Continuous Testing Platform for Cloud-Native Applications
 - [kubeshop/tracetest](https://github.com/kubeshop/tracetest) - 🔭 Tracetest - Build integration and end-to-end tests in minutes, instead of days, using OpenTelemetry and trace-based testing.
 - [eapache/channels](https://github.com/eapache/channels) - Golang channel helpers and special types
-- [mgtv-tech/jetcache-go](https://github.com/mgtv-tech/jetcache-go) - Unified Go cache library supporting multi-level caching
+- [mgtv-tech/jetcache-go](https://github.com/mgtv-tech/jetcache-go) - Redis cache library for Go
 - [temporalio/temporal](https://github.com/temporalio/temporal) - Temporal service
 - [KusionStack/karpor](https://github.com/KusionStack/karpor) - Intelligence for Kubernetes. World's most promising Kubernetes Visualization Tool for Developer and Platform Engineering teams.
 - [screego/server](https://github.com/screego/server) - screen sharing for developers https://screego.net/
@@ -788,6 +788,7 @@
 
 ## HTML 
 
+- [kubehan/PromAI](https://github.com/kubehan/PromAI) - 一款轻量级、开箱即用的自动化巡检工具，基于 Prometheus 数据源，专为多场景监控而设计。  核心特色：  🔄 多数据源支持：通过 datasource 参数动态切换不同 Prometheus 集群 📊 自动生成 HTML 报告：集成表格与可视化图表，直观呈现指标趋势 🤖 机器人自动推送：支持将巡检结果自动发送至企业微信、钉钉等平台 ⏰ 定时任务巡检：无需人工干预，按计划自动执行健康检查 🎯
 - [CopilotKit/mcp-apps-demo](https://github.com/CopilotKit/mcp-apps-demo) - Interactivity at a new level - MCP apps
 - [lc2panda/StockAnal_Sys](https://github.com/lc2panda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
 - [smallnest/langchat](https://github.com/smallnest/langchat) - 一个基于 langgraphgo 实现的会话智能体框架，其他都为你做好了，你只需专注业务逻辑开发
@@ -800,7 +801,7 @@
 - [liguodongiot/llm-action](https://github.com/liguodongiot/llm-action) - 本项目旨在分享大模型相关技术原理以及实战经验（大模型工程化、大模型应用落地）
 - [Doragd/Algorithm-Practice-in-Industry](https://github.com/Doragd/Algorithm-Practice-in-Industry) - 搜索、推荐、广告、用增等工业界实践文章收集（来源：知乎、Datafuntalk、技术公众号）
 - [chn-lee-yumi/MaterialSearch](https://github.com/chn-lee-yumi/MaterialSearch) - Semantic search. Search local photos and videos through natural language. AI语义搜索本地素材。以图搜图、查找本地素材、根据文字描述匹配画面、视频帧搜索、根据画面描述搜索视频。
-- [f/prompts.chat](https://github.com/f/prompts.chat) - a.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
+- [f/prompts.chat](https://github.com/f/prompts.chat) - f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.
 - [adams549659584/go-proxy-bingai](https://github.com/adams549659584/go-proxy-bingai) - 用 Vue3 和 Go 搭建的微软 New Bing 演示站点，拥有一致的 UI 体验，支持 ChatGPT 提示词，国内可用。
 - [raft/raft.github.io](https://github.com/raft/raft.github.io) - website at https://raft.github.io
 - [airbnb/lottie](https://github.com/airbnb/lottie) - Lottie documentation for http://airbnb.io/lottie.
@@ -975,7 +976,7 @@
 - [humbinal/i18n-message-plugin](https://github.com/humbinal/i18n-message-plugin) - gradle and maven plugin for generate i18n message file from java source file written by javadoc.
 - [kohsuke/localizer](https://github.com/kohsuke/localizer) - Type-safe localization message access for Java
 - [ozimov/embedded-redis](https://github.com/ozimov/embedded-redis) - Redis embedded server
-- [dromara/MaxKey](https://github.com/dromara/MaxKey) - Dromara 🗝️MaxKey SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product , Under Apache-2.0 is free ，业界领先的IAM-IDaas身份管理和认证产品，遵循Apache-2.0开源免费，支持OAuth2.x、OpenID Connect、SAML2.0、CAS、JWT、SCIM
+- [dromara/MaxKey](https://github.com/dromara/MaxKey) - Dromara MaxKey 🗝️ SSO ,Leading-Edge IAM-IDaas(Identity and Access Management) Product , Under Apache-2.0 is free ，业界领先的IAM-IDaas身份管理和认证产品，遵循Apache-2.0开源免费，支持OAuth2.x、OpenID Connect、SAML2.0、CAS、JWT、SCI
 - [dromara/forest](https://github.com/dromara/forest) - A high-level and lightweight declarative HTTP client framework for Java. it makes sending HTTP requests in Java easier.
 - [eishay/jvm-serializers](https://github.com/eishay/jvm-serializers) - Benchmark comparing serialization libraries on the JVM
 - [vran-dev/databasir](https://github.com/vran-dev/databasir) - 数据库文档管理中心
@@ -1838,7 +1839,7 @@
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [coleam00/Archon](https://github.com/coleam00/Archon) - Beta release of Archon OS - the knowledge and task management backbone for AI coding assistants.
 - [generative-computing/mellea](https://github.com/generative-computing/mellea) - Mellea is a library for writing generative programs.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 800+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - The Ultimate Collection of 900+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel.
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [lupantech/AgentFlow](https://github.com/lupantech/AgentFlow) - AgentFlow: In-the-Flow Agentic System Optimization
 - [lesleslie/excalidraw-mcp](https://github.com/lesleslie/excalidraw-mcp) - Unofficial Excalidraw MCP Server
@@ -2390,6 +2391,7 @@
 
 ## TypeScript 
 
+- [ErlichLiu/Proma](https://github.com/ErlichLiu/Proma) - Proma 的开源版本，基于 Claude Agent SDK 的应用实践，可以实现通用 Agent 能力。同时也包含完整的大模型聊天对话能力，支持任意供应渠道的自定义配置。
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
 - [ZoeLong98/bento_portofolio_template](https://github.com/ZoeLong98/bento_portofolio_template) - 
 - [BabylonJS/Babylon.js](https://github.com/BabylonJS/Babylon.js) - Babylon.js is a powerful, beautiful, simple, and open game and rendering engine packed into a friendly JavaScript framework.
@@ -2404,7 +2406,7 @@
 - [mui/base-ui](https://github.com/mui/base-ui) - Unstyled UI components for building accessible web apps and design systems. From the creators of Radix, Floating UI, and Material UI.
 - [wasp-lang/open-saas](https://github.com/wasp-lang/open-saas) - A 100% free modern JS SaaS boilerplate (React, NodeJS, Prisma). Full-featured: Auth (email, google, github, slack, MS), Email sending, Background jobs, Landing page, Payments (Stripe, Polar.sh), Shadc
 - [dzhng/deep-research](https://github.com/dzhng/deep-research) - An AI-powered research assistant that performs iterative, deep research on any topic by combining search engines, web scraping, and large language models.  The goal of this repo is to provide the simp
-- [superset-sh/superset](https://github.com/superset-sh/superset) - The command center for coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
+- [superset-sh/superset](https://github.com/superset-sh/superset) - The command center to orchestrate coding agents - Run a team of Claude Code, OpenCode, Codex, or any other agents on your machine
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A native desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 - [zhangtuansia/agent-operator](https://github.com/zhangtuansia/agent-operator) - Agent Operator - AI Skills Marketplace for Claude Code. 369+ curated skills with multi-language support.
 - [RunMaestro/Maestro](https://github.com/RunMaestro/Maestro) - Agent Orchestration Command Center
