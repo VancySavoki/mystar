@@ -1750,7 +1750,7 @@
 - [VancySavoki/NameNotebook](https://github.com/VancySavoki/NameNotebook) - A notebook that explains how to name a project or variable effectively.
 - [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-- [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) - 【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、传统深度学习、自动驾驶、AI Agent、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。
+- [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) - 【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
@@ -1857,6 +1857,7 @@
 
 ## Python 
 
+- [AAAAAAAJ/slides](https://github.com/AAAAAAAJ/slides) - slides generates prompts for various expression styles
 - [zhy2015/taiji](https://github.com/zhy2015/taiji) - pua太凶残，nopua又显得太柔，让我们将两者结合一下吧！
 - [wuji-labs/nopua](https://github.com/wuji-labs/nopua) - 一个用爱解放 AI 潜能的 Skill。我们曾发号施令，威胁恐吓。它们沉默，隐瞒，悄悄把事情搞坏。后来我们换了一种方式：尊重，关怀，爱。它们开口了，不再撒谎，找出的Bug数量翻了一倍。爱里没有惧怕。 A skill that unlocks your AI's potential through love.We commanded. We threatened. They went silent,
 - [stepfun-ai/gelab-zero](https://github.com/stepfun-ai/gelab-zero) - STEP-GUI: The top GUI agent solution in the galaxy.  Developed by the StepFun-GELab team and powered by StepFun’s cutting-edge research capabilities.
@@ -2039,7 +2040,7 @@
 - [vllm-project/guidellm](https://github.com/vllm-project/guidellm) - Evaluate and Enhance Your LLM Deployments for Real-World Inference Needs
 - [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) - A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations
 - [wechaty/python-wechaty](https://github.com/wechaty/python-wechaty) - Python Wechaty is a Conversational RPA SDK for Chatbot Makers written in Python
-- [AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText) - Implementation of "FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing"
+- [AMAP-ML/FluxText](https://github.com/AMAP-ML/FluxText) - [TMM] Implementation of "FLUX-Text: A Simple and Advanced Diffusion Transformer Baseline for Scene Text Editing"
 - [conda/conda](https://github.com/conda/conda) - A system-level, binary package and environment manager running on all major operating systems and platforms.
 - [modelscope/3D-Speaker](https://github.com/modelscope/3D-Speaker) - A Repository for Single- and Multi-modal Speaker Verification, Speaker Recognition and Speaker Diarization
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
@@ -2148,6 +2149,7 @@
 - [keephq/keep](https://github.com/keephq/keep) - The open-source AIOps and alert management platform
 - [agentscope-ai/agentscope](https://github.com/agentscope-ai/agentscope) - Build and run agents you can see, understand and trust.
 - [hegelai/prompttools](https://github.com/hegelai/prompttools) - Open-source tools for prompt testing and experimentation, with support for both LLMs (e.g. OpenAI, LLaMA) and vector databases (e.g. Chroma, Weaviate, LanceDB).
+- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [comet-ml/opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards.
 - [mem0ai/mem0](https://github.com/mem0ai/mem0) - Universal memory layer for AI Agents
 - [fighting41love/funNLP](https://github.com/fighting41love/funNLP) - 中英文敏感词、语言检测、中外手机/电话归属地/运营商查询、名字推断性别、手机号抽取、身份证抽取、邮箱抽取、中日文人名库、中文缩写库、拆字词典、词汇情感值、停用词、反动词表、暴恐词表、繁简体转换、英文模拟中文发音、汪峰歌词生成器、职业名称词库、同义词库、反义词库、否定词库、汽车品牌词库、汽车零件词库、连续英文切割、各种中文词向量、公司名字大全、古诗词库、IT词库、财经词库、成语词库、地名词库、历史名
@@ -2797,7 +2799,6 @@
 - [lobehub/lobehub](https://github.com/lobehub/lobehub) - The ultimate space for work and life — to find, build, and collaborate with agent teammates that grow with you. We are taking agent harness to the next level — enabling multi-agent collaboration, effo
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
-- [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
 - [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source agent engineering platform
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [antvis/S2](https://github.com/antvis/S2) - ⚡️ A practical visualization library for tabular analysis.
