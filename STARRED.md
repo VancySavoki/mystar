@@ -365,7 +365,7 @@
 - [gorilla/handlers](https://github.com/gorilla/handlers) - Package gorilla/handlers is a collection of useful middleware for Go HTTP services & web applications 🛃
 - [gorilla/schema](https://github.com/gorilla/schema) - Package gorilla/schema fills a struct with form values.
 - [gopherjs/gopherjs](https://github.com/gopherjs/gopherjs) - A compiler from Go to JavaScript for running Go code in a browser
-- [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool (with MySQL\MariaDB and MongoDB support)
+- [databasus/databasus](https://github.com/databasus/databasus) - Database backup tool (PostgreSQL, MySQL\MariaDB and MongoDB)
 - [nvwa-io/nvwa-io](https://github.com/nvwa-io/nvwa-io) - Nvwa-io is a open source DevOps CI/CD auto-build and auto-deploy system（女娲 - 开源 DevOps CI/CD 自动构建和自动部署系统).  http://nvwa-io.com
 - [docker/docker-agent](https://github.com/docker/docker-agent) - AI Agent Builder and Runtime by Docker Engineering
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
@@ -809,6 +809,7 @@
 
 ## HTML 
 
+- [robin-dela/hover-effect](https://github.com/robin-dela/hover-effect) - Javascript library to draw and animate images on hover
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - practice made claude perfect
 - [zengwenliang416/ppt-agent](https://github.com/zengwenliang416/ppt-agent) - 
 - [Sea2049/SEAMI_OpenMAIC](https://github.com/Sea2049/SEAMI_OpenMAIC) - SEAMI_OpenMAIC桌面化
@@ -1874,7 +1875,7 @@
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The highest-scoring AI memory system ever benchmarked. And it's free.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
-- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, OpenClaw, Factory Droid, Trae). Turn any folder of code, docs, papers, images, videos, or YouTube links into a queryable kn
+- [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - Skywork Agent Skills for AI office suites, including AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch and AI Music.  These skills can be used by any skills-compatible agent, including C
@@ -1900,7 +1901,7 @@
 - [SimonLeen22/openclaw-monitor](https://github.com/SimonLeen22/openclaw-monitor) - OpenClaw Real-time Monitor - 实时监控工具
 - [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [cft0808/edict](https://github.com/cft0808/edict) - 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails
-- [agentscope-ai/CoPaw](https://github.com/agentscope-ai/CoPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
+- [agentscope-ai/QwenPaw](https://github.com/agentscope-ai/QwenPaw) - Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities.
 - [K-Dense-AI/scientific-agent-skills](https://github.com/K-Dense-AI/scientific-agent-skills) - A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.
 - [alibaba/OpenSandbox](https://github.com/alibaba/OpenSandbox) - Secure, Fast, and Extensible Sandbox runtime for AI agents.
 - [huggingface/accelerate](https://github.com/huggingface/accelerate) - 🚀 A simple way to launch, train, and use PyTorch models on almost any device and distributed configuration, automatic mixed precision (including fp8), and easy-to-configure FSDP and DeepSpeed support
@@ -1917,7 +1918,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
 - [generative-computing/mellea](https://github.com/generative-computing/mellea) - Mellea is a library for writing generative programs.
-- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,370+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
+- [sickn33/antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) - Installable GitHub library of 1,400+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI, Antigravity, and more. Includes installer CLI, bundles, workflows, and official/community skill coll
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
 - [lupantech/AgentFlow](https://github.com/lupantech/AgentFlow) - AgentFlow: In-the-Flow Agentic System Optimization
 - [lesleslie/excalidraw-mcp](https://github.com/lesleslie/excalidraw-mcp) - Unofficial Excalidraw MCP Server
