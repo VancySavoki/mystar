@@ -818,7 +818,6 @@
 - [CopilotKit/generative-ui-playground](https://github.com/CopilotKit/generative-ui-playground) - Interact with all three types of generative UI, all in one interface
 - [kubehan/PromAI](https://github.com/kubehan/PromAI) - 一款轻量级、开箱即用的自动化巡检工具，基于 Prometheus 数据源，专为多场景监控而设计。  核心特色：  🔄 多数据源支持：通过 datasource 参数动态切换不同 Prometheus 集群 📊 自动生成 HTML 报告：集成表格与可视化图表，直观呈现指标趋势 🤖 机器人自动推送：支持将巡检结果自动发送至企业微信、钉钉等平台 ⏰ 定时任务巡检：无需人工干预，按计划自动执行健康检查 🎯
 - [CopilotKit/mcp-apps-demo](https://github.com/CopilotKit/mcp-apps-demo) - Interactivity at a new level - MCP apps
-- [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) - 将 钉钉机器人 / 钉钉 DEAP Agent 连接到 OpenClaw Gateway 的OpenClaw Plugin，支持 AI Card 流式响应
 - [smallnest/langchat](https://github.com/smallnest/langchat) - 一个基于 langgraphgo 实现的会话智能体框架，其他都为你做好了，你只需专注业务逻辑开发
 - [jax-ml/scaling-book](https://github.com/jax-ml/scaling-book) - Home for "How To Scale Your Model", a short blog-style textbook about scaling LLMs on TPUs
 - [ioniks/MarkdownTaskManager](https://github.com/ioniks/MarkdownTaskManager) - Local-first Kanban task manager
@@ -1624,6 +1623,7 @@
 
 ## Jupyter Notebook 
 
+- [Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms) - 《动手学大模型Dive into LLMs》系列编程实践教程
 - [bbruceyuan/Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN) - 中文翻译的 Hands-On-Large-Language-Models (hands-on-llms)，动手学习大模型
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
 - [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
@@ -2023,7 +2023,7 @@
 - [weaviate/elysia](https://github.com/weaviate/elysia) - Python package and backend for the Elysia platform app.
 - [Klavis-AI/klavis](https://github.com/Klavis-AI/klavis) - Klavis AI:  MCP integration platforms that let AI agents use tools reliably at any scale
 - [awslabs/aws-shell](https://github.com/awslabs/aws-shell) - An integrated shell for working with the AWS CLI.
-- [awslabs/agent-squad](https://github.com/awslabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
+- [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
 - [whillhill/mcpstore](https://github.com/whillhill/mcpstore) - 开盒即用的优雅管理mcp服务 | 结合Agent框架 | 作者听劝 | 已发布pypi | Vue页面demo
@@ -2101,7 +2101,7 @@
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
-- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - Collection of awesome LLM apps with AI Agents and RAG using OpenAI, Anthropic, Gemini and opensource models.
+- [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) - 100+ AI Agent & RAG apps you can actually run — clone, customize, ship.
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
 - [daveshap/OpenAI_Agent_Swarm](https://github.com/daveshap/OpenAI_Agent_Swarm) - HAAS = Hierarchical Autonomous Agent Swarm - "Resistance is futile!"
 - [openai/openai-cs-agents-demo](https://github.com/openai/openai-cs-agents-demo) - Demo of a customer service use case implemented with the OpenAI Agents SDK
@@ -2154,7 +2154,7 @@
 - [modelscope/evalscope](https://github.com/modelscope/evalscope) - A streamlined and customizable framework for efficient large model (LLM, VLM, AIGC) evaluation and performance benchmarking.
 - [vllm-project/production-stack](https://github.com/vllm-project/production-stack) - vLLM’s reference system for K8S-native cluster-wide deployment with community-driven performance optimization
 - [tqdm/tqdm](https://github.com/tqdm/tqdm) - :zap: A Fast, Extensible Progress Bar for Python and CLI
-- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.5, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (A
+- [modelscope/ms-swift](https://github.com/modelscope/ms-swift) - Use PEFT or Full-parameter to CPT/SFT/DPO/GRPO 600+ LLMs (Qwen3.6, DeepSeek-R1, GLM-5, InternLM3, Llama4, ...) and 300+ MLLMs (Qwen3-VL, Qwen3-Omni, InternVL3.5, Ovis2.5, GLM4.5v, Llava, Phi4, ...) (A
 - [HumanAIGC-Engineering/OpenAvatarChat](https://github.com/HumanAIGC-Engineering/OpenAvatarChat) - 
 - [bytedance/deer-flow](https://github.com/bytedance/deer-flow) - An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of ta
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
@@ -2496,6 +2496,7 @@
 
 ## TypeScript 
 
+- [gitbrent/PptxGenJS](https://github.com/gitbrent/PptxGenJS) - Build PowerPoint presentations with JavaScript. Works with Node, React, web browsers, and more.
 - [millionco/claude-doctor](https://github.com/millionco/claude-doctor) - Diagnose your Claude Code sessions
 - [vercel-labs/open-agents](https://github.com/vercel-labs/open-agents) - An open source template for building cloud agents.
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
@@ -2588,6 +2589,7 @@
 - [numman-ali/openskills](https://github.com/numman-ali/openskills) - Universal skills loader for AI coding agents - npm i -g openskills
 - [vercel-labs/skills](https://github.com/vercel-labs/skills) - The open agent skills tool - npx skills
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
+- [DingTalk-Real-AI/dingtalk-openclaw-connector](https://github.com/DingTalk-Real-AI/dingtalk-openclaw-connector) - Official OpenClaw DingTalk channel plugin | 钉钉官方 OpenClaw 插件
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
 - [philschmid/mcp-cli](https://github.com/philschmid/mcp-cli) - Lighweight CLI to interact with MCP servers
