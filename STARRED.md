@@ -1420,7 +1420,7 @@
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [jsdom/jsdom](https://github.com/jsdom/jsdom) - A JavaScript implementation of various web standards, for use with Node.js
 - [pandao/editor.md](https://github.com/pandao/editor.md) - The open source embeddable online markdown editor (component).
-- [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - JavaScript library to generate a human readable String describing the file size
+- [avoidwork/filesize.js](https://github.com/avoidwork/filesize.js) - A lightweight, high-performance file size utility that converts bytes to human-readable strings. Zero dependencies. 100% test coverage.
 - [OXOYO/X-Flowchart-Vue](https://github.com/OXOYO/X-Flowchart-Vue) - 基于G6和Vue的可视化图形编辑器。A visual graph editor based on G6 and Vue.
 - [Automattic/node-canvas](https://github.com/Automattic/node-canvas) - Node canvas is a Cairo backed Canvas implementation for NodeJS.
 - [gfxfundamentals/threejsfundamentals](https://github.com/gfxfundamentals/threejsfundamentals) - 
@@ -1734,7 +1734,7 @@
 ## Others 
 
 - [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
-- [multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
+- [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
 - [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) - 渐进交互式ppt生成skill
 - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
@@ -1927,7 +1927,7 @@
 - [openinterpreter/open-interpreter](https://github.com/openinterpreter/open-interpreter) - A natural language interface for computers
 - [batrachianai/toad](https://github.com/batrachianai/toad) - A unified interface for AI in your terminal.
 - [MemTensor/MemOS](https://github.com/MemTensor/MemOS) - AI memory OS for LLM and Agent systems(moltbot,clawdbot,openclaw), enabling persistent Skill memory for cross-task skill reuse and evolution.
-- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
+- [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) - [GitHub Trending #2] A Low-Code MCP Framework for Building Complex and Innovative RAG Pipelines
 - [OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev) - ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration
 - [HKUDS/DeepTutor](https://github.com/HKUDS/DeepTutor) - "DeepTutor: Agent-Native Personalized Learning Assistant"
 - [microsoft/UFO](https://github.com/microsoft/UFO) - UFO³: Weaving the Digital Agent Galaxy
@@ -2291,6 +2291,7 @@
 - [QingJ01/Clyde](https://github.com/QingJ01/Clyde) - A desktop pet that reacts to your AI coding agent sessions in real-time.
 - [tailcallhq/forgecode](https://github.com/tailcallhq/forgecode) - AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models
 - [ultraworkers/claw-code](https://github.com/ultraworkers/claw-code) - The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex.
+- [gethopp/hopp](https://github.com/gethopp/hopp) - The best OSS remote pair programming app.
 - [thisnick/agent-wechat](https://github.com/thisnick/agent-wechat) - RPA-based WeChat automation
 - [tauri-apps/wry](https://github.com/tauri-apps/wry) - Cross-platform WebView library in Rust for Tauri.
 - [apache/arrow-rs](https://github.com/apache/arrow-rs) - Official Rust implementation of Apache Arrow
@@ -2322,7 +2323,7 @@
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [LlamaEdge/LlamaEdge](https://github.com/LlamaEdge/LlamaEdge) - The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/char](https://github.com/fastrepl/char) - AI daily notes that remembers everything and acts on your behalf
 - [vllora/vllora](https://github.com/vllora/vllora) - Debug your AI agents
 - [y-crdt/y-crdt](https://github.com/y-crdt/y-crdt) - Rust port of Yjs
 - [kahing/catfs](https://github.com/kahing/catfs) - Cache AnyThing filesystem written in Rust
@@ -2467,7 +2468,7 @@
 
 ## Swift 
 
-- [erha19/ping-island](https://github.com/erha19/ping-island) - A Vibe Island app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch. 一款 macOS 菜单栏应用，以灵动岛风格集中监控多个 AI 编程助手的会话，支
+- [erha19/ping-island](https://github.com/erha19/ping-island) - A macOS menu bar (Vibe Island liked ) app that monitors AI coding sessions in a Dynamic Island-style surface — approve, respond, and jump back to the right window, all from the notch. 一款 macOS 菜单栏应用，以
 - [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 - [steipete/Peekaboo](https://github.com/steipete/Peekaboo) - Peekaboo is a macOS CLI & optional MCP server that enables AI agents to capture screenshots of applications, or the entire system, with optional visual question answering through local or remote AI mo
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
@@ -2509,7 +2510,6 @@
 - [11cafe/jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
 - [steven-tey/novel](https://github.com/steven-tey/novel) - Notion-style WYSIWYG editor with AI-powered autocompletion.
-- [ParallaxPro-AI/Open-ParallaxPro](https://github.com/ParallaxPro-AI/Open-ParallaxPro) - Open source tool that turns your ideas into real video games
 - [JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template) - Clone any website with one command using AI coding agents
 - [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) - freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer science for free.
 - [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
@@ -2527,7 +2527,6 @@
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [Ironclad/rivet](https://github.com/Ironclad/rivet) - The open-source visual AI programming environment and TypeScript library
 - [fosslife/devtools-x](https://github.com/fosslife/devtools-x) - Collection of offline first developer utilities available as non-electron desktop application. all in one place, cross-platform, 10MB app!
-- [gethopp/hopp](https://github.com/gethopp/hopp) - The best OSS remote pair programming app.
 - [workany-ai/workany](https://github.com/workany-ai/workany) - Desktop Agent for Any Task
 - [agmmnn/tauri-ui](https://github.com/agmmnn/tauri-ui) - 🦀 Tauri + shadcn/ui starter. Pick your framework and start building — Vite, Next.js, React Router, Astro, TanStack Start.
 - [tauri-apps/tauri-action](https://github.com/tauri-apps/tauri-action) - Build your Web application as a Tauri binary for macOS, Linux and Windows
