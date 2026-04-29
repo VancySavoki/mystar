@@ -297,6 +297,7 @@
 
 ## Elixir 
 
+- [openai/symphony](https://github.com/openai/symphony) - Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents.
 - [asciinema/asciinema-server](https://github.com/asciinema/asciinema-server) - Platform for hosting and sharing terminal session recordings
 
 ## Erlang 
@@ -1185,7 +1186,7 @@
 - [opentracing-contrib/java-spring-web](https://github.com/opentracing-contrib/java-spring-web) - OpenTracing Spring Web instrumentation
 - [opentracing-contrib/java-specialagent](https://github.com/opentracing-contrib/java-specialagent) - Automatic instrumentation for 3rd-party libraries in Java applications with OpenTracing.
 - [opentracing-contrib/java-redis-client](https://github.com/opentracing-contrib/java-redis-client) - OpenTracing Instrumentation for Redis Client
-- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - 一款 AI 驱动的低代码平台，提供"零代码"与"代码生成"双模式——零代码模式一句话搭建系统，代码生成模式自动输出前后端代码与建表 SQL，生成即可运行。平台内置 AI 聊天助手、AI大模型、知识库、AI流程编排、MCP 与插件体系，兼容主流大模型，支持一句话生成流程图、设计表单、聊天式业务操作，解决 Java 项目 80% 重复工作，高效且不失灵活。
+- [jeecgboot/JeecgBoot](https://github.com/jeecgboot/JeecgBoot) - AI低代码平台，支持「低代码 + 零代码」双模式：零代码 5 分钟搭建业务系统，低代码模式一键生成前后端代码。 内置AI 应用，支持AI聊天、知识库、流程编排、MCP与插件，支持各种模型。Skills能力实现：一句话画流程图、设计表单、生成系统。 引领 AI生成→在线配置→代码生成→手工合并的开发模式，解决Java项目80%的重复工作，快速提高效率，又不失灵活性。
 - [dbeaver/dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client
 - [apache/dolphinscheduler](https://github.com/apache/dolphinscheduler) - Apache DolphinScheduler is the modern data orchestration platform. Agile to create high performance workflow with low-code
 - [spring-io/start.spring.io](https://github.com/spring-io/start.spring.io) - https://start.spring.io
@@ -1291,6 +1292,7 @@
 ## JavaScript 
 
 - [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
+- [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) - 渐进交互式ppt生成skill
 - [lifeafter619/Aboard](https://github.com/lifeafter619/Aboard) - 一个简约的web白板，更适合老师体质 | Just a board.
 - [jackwener/OpenCLI](https://github.com/jackwener/OpenCLI) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
 - [calesthio/Crucix](https://github.com/calesthio/Crucix) - Your personal intelligence agent. Watches the world from multiple data sources and pings you when something changes.
@@ -1739,7 +1741,6 @@
 - [yofine/skills](https://github.com/yofine/skills) - yofine's agent skills
 - [alchaincyf/hermes-agent-orange-book](https://github.com/alchaincyf/hermes-agent-orange-book) - Hermes Agent 从入门到精通 · 橙皮书系列 · Nous Research 开源 AI Agent 框架实战指南
 - [forrestchang/andrej-karpathy-skills](https://github.com/forrestchang/andrej-karpathy-skills) - A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.
-- [mucsbr/ppt-agent-workflow-san](https://github.com/mucsbr/ppt-agent-workflow-san) - 渐进交互式ppt生成skill
 - [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
 - [snarktank/ai-dev-tasks](https://github.com/snarktank/ai-dev-tasks) - A simple task management system for managing AI dev agents
 - [zhengxinle/pua-knowledge-sharing](https://github.com/zhengxinle/pua-knowledge-sharing) - 把妹心得分享
@@ -1762,11 +1763,10 @@
 - [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 - [flexnoteapp/flexnote](https://github.com/flexnoteapp/flexnote) - FlexNote App
 - [x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools) - FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, V
-- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [VancySavoki/NameNotebook](https://github.com/VancySavoki/NameNotebook) - A notebook that explains how to name a project or variable effectively.
 - [dnsjia/luban](https://github.com/dnsjia/luban) - Kubernetes集群管理平台，CMDB，K8S容器管理，运维平台，自动化运维发布平台，CICD平台，多集群管理
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
-- [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) - 【三年面试五年模拟】AIGC算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。
+- [WeThinkIn/AIGC-Interview-Book](https://github.com/WeThinkIn/AIGC-Interview-Book) - 【三年面试五年模拟】AIGC/LLM/AI Agent算法工程师面试秘籍。涵盖AIGC、LLM大模型、AI Agent、传统深度学习、自动驾驶、机器学习、计算机视觉、自然语言处理、强化学习、大数据挖掘、具身智能、元宇宙、AGI等AI行业面试笔试干货经验与核心知识。
 - [janhq/awesome-local-ai](https://github.com/janhq/awesome-local-ai) - An awesome repository of local AI tools
 - [MoonshotAI/Kimi-K2](https://github.com/MoonshotAI/Kimi-K2) - Kimi K2 is the large language model series developed by Moonshot AI team
 - [microsoft/vscode-copilot-release](https://github.com/microsoft/vscode-copilot-release) - Feedback on GitHub Copilot Chat UX in Visual Studio Code.
@@ -1779,7 +1779,7 @@
 - [JushBJJ/Mr.-Ranedeer-AI-Tutor](https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor) - A GPT-4 AI Tutor Prompt for customizable personalized learning experiences.
 - [XiaoMi/open-falcon](https://github.com/XiaoMi/open-falcon) - A Distributed and High-Performance Monitoring System
 - [GitbookIO/javascript](https://github.com/GitbookIO/javascript) - GitBook teaching programming basics with Javascript
-- [cursor/cursor](https://github.com/cursor/cursor) - The AI Code Editor
+- [cursor/cursor](https://github.com/cursor/cursor) - 
 - [easychen/one-person-businesses-methodology](https://github.com/easychen/one-person-businesses-methodology) - 一人公司方法论
 - [yinggaozhen/awesome-go-cn](https://github.com/yinggaozhen/awesome-go-cn) - 一个很棒的Go框架、库和软件的中文收录大全。:alarm_clock:脚本定期与英文文档同步，包含了各工程star数/最近更新时间，助您快速发现优质项目。Awesome Go~
 - [wangdoc/typescript-tutorial](https://github.com/wangdoc/typescript-tutorial) - TypeScript 教程
@@ -1874,13 +1874,11 @@
 ## Python 
 
 - [MetaCubeX/mihomo](https://github.com/MetaCubeX/mihomo) - A simple Python Pydantic model for Honkai: Star Rail parsed data from the Mihomo API.
-- [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 - [joeynyc/hermes-hud](https://github.com/joeynyc/hermes-hud) - TUI consciousness monitor for Hermes
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
 - [safishamsi/graphify](https://github.com/safishamsi/graphify) - AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, GitHub Copilot CLI, OpenClaw, Factory Droid, Trae, Google Antigravity). Turn any folder of code, docs, papers, images, or v
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
-- [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [SkyworkAI/Skywork-Skills](https://github.com/SkyworkAI/Skywork-Skills) - Skywork Agent Skills for AI office suites, including AI PPT, AI Document, AI Excel, AI Image, AI Search/DeepResearch and AI Music.  These skills can be used by any skills-compatible agent, including C
 - [ag2ai/build-with-ag2](https://github.com/ag2ai/build-with-ag2) - Sample code and application showcases to get you going with AG2 (formally AutoGen)
 - [dataelement/Clawith](https://github.com/dataelement/Clawith) - Your Agent Company
@@ -1911,7 +1909,7 @@
 - [huggingface/peft](https://github.com/huggingface/peft) - 🤗 PEFT: State-of-the-art Parameter-Efficient Fine-Tuning.
 - [huggingface/skills](https://github.com/huggingface/skills) - Give your agents the power of the Hugging Face ecosystem
 - [D4Vinci/Scrapling](https://github.com/D4Vinci/Scrapling) - 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!
-- [bfly123/claude_code_bridge](https://github.com/bfly123/claude_code_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
+- [bfly123/claude_codex_bridge](https://github.com/bfly123/claude_codex_bridge) - Real-time multi-AI collaboration: Claude, Codex & Gemini with persistent context, minimal token overhead
 - [hengruiyun/AI-Stock-Master](https://github.com/hengruiyun/AI-Stock-Master) - AI股票大师-基于AI 的股票趋势分析平台，通过AI 解读中国、香港、美国股票市场，融合三大核心算法，独家预分析多维数据，为投资者提供全方位的学习支持. This is an AI-based stock trend analysis platform that integrates three core algorithms:
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
@@ -1970,7 +1968,7 @@
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - 
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
-- [LeapLabTHU/cooragent](https://github.com/LeapLabTHU/cooragent) - Official Repository of Cooragent. Free Try on https://www.cooragent.com/
+- [LeapLabTHU/cooragent](https://github.com/LeapLabTHU/cooragent) - Official Repository of Cooragent.
 - [mindverse/Second-Me](https://github.com/mindverse/Second-Me) - Train your AI self, amplify you, bridge the world
 - [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
 - [Atarity/deploy-your-own-saas](https://github.com/Atarity/deploy-your-own-saas) - List of "only yours" cloud services for everyday needs :black_flag:
@@ -2031,7 +2029,6 @@
 - [2FastLabs/agent-squad](https://github.com/2FastLabs/agent-squad) - Flexible and powerful framework for managing multiple AI agents and handling complex conversations
 - [NVIDIA/warp](https://github.com/NVIDIA/warp) - A Python framework for GPU-accelerated simulation, robotics, and machine learning.
 - [awslabs/mcp](https://github.com/awslabs/mcp) - Official MCP Servers for AWS
-- [whillhill/mcpstore](https://github.com/whillhill/mcpstore) - 开盒即用的优雅管理mcp服务 | 结合Agent框架 | 作者听劝 | 已发布pypi | Vue页面demo
 - [mcp-auth/python](https://github.com/mcp-auth/python) - 🔐 Plug-and-play auth for Python MCP servers.
 - [modelcontextprotocol/python-sdk](https://github.com/modelcontextprotocol/python-sdk) - The official Python SDK for Model Context Protocol servers and clients
 - [FunAudioLLM/FunMusic](https://github.com/FunAudioLLM/FunMusic) - A fundamental toolkit designed for music, song, and audio generation
@@ -2103,7 +2100,7 @@
 - [airweave-ai/airweave](https://github.com/airweave-ai/airweave) - Open-source context retrieval layer for AI agents
 - [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) - 📑 PageIndex: Document Index for Vectorless, Reasoning-based RAG
 - [MODSetter/SurfSense](https://github.com/MODSetter/SurfSense) - An open source, privacy focused alternative to NotebookLM for teams with no data limits. Join our Discord: https://discord.gg/ejRNvftDp9
-- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build in any framework. Run as a service. Ship to real users.
+- [agno-agi/agno](https://github.com/agno-agi/agno) - Agno turns agents into production software. Build agents in any framework. Run as a service. Ship to real users.
 - [microsoft/magentic-ui](https://github.com/microsoft/magentic-ui) - A research prototype of a human-centered web agent
 - [streamlit/streamlit](https://github.com/streamlit/streamlit) - Streamlit — A faster way to build and share data apps.
 - [ag2ai/ag2](https://github.com/ag2ai/ag2) - AG2 (formerly AutoGen): The Open-Source AgentOS.Join us at: https://discord.gg/sNGSwQME3x
@@ -2330,6 +2327,7 @@
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [awslabs/llrt](https://github.com/awslabs/llrt) - LLRT (Low Latency Runtime) is an experimental, lightweight JavaScript runtime designed to address the growing demand for fast and efficient Serverless applications.
 - [seanmonstar/warp](https://github.com/seanmonstar/warp) - A super-easy, composable, web server framework for warp speeds.
+- [warpdotdev/warp](https://github.com/warpdotdev/warp) - Warp is an agentic development environment, born out of the terminal.
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [LlamaEdge/LlamaEdge](https://github.com/LlamaEdge/LlamaEdge) - The easiest & fastest way to run customized and fine-tuned LLMs locally or on the edge
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
@@ -2504,7 +2502,9 @@
 
 ## TypeScript 
 
+- [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
 - [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
+- [joeynyc/hermes-hudui](https://github.com/joeynyc/hermes-hudui) - Web UI consciousness monitor for Hermes — the AI agent with persistent memory
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -2519,6 +2519,7 @@
 - [Sidenai/sidex](https://github.com/Sidenai/sidex) - VS Code rebuilt on Tauri. Same architecture, 96% smaller. Early release.
 - [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
 - [hanzoskill/remotion-best-practices](https://github.com/hanzoskill/remotion-best-practices) - Hanzo Bot skill: remotion-best-practices (by am-will)
+- [mindfold-ai/Trellis](https://github.com/mindfold-ai/Trellis) - The best agent harness.
 - [claude-code-best/claude-code](https://github.com/claude-code-best/claude-code) - 原汁原昧 Claude Code 可运行,可构建, 可调试版; Typescript 类型全修复; 企业级可靠性; 安全无毒, lock 文件保真, 可直接 bun i; bun run dev 启动
 - [11cafe/jaaz](https://github.com/11cafe/jaaz) - The world's first open-source multimodal creative assistant  This is a substitute for Canva and Manus that prioritizes privacy and is usable locally.
 - [dataelement/bisheng](https://github.com/dataelement/bisheng) - BISHENG is an open LLM devops platform for next generation Enterprise AI applications. Powerful and comprehensive features include: GenAI workflow, RAG, Agent, Unified model management, Evaluation, SF
