@@ -941,7 +941,7 @@
 - [jknack/handlebars.java](https://github.com/jknack/handlebars.java) - Logic-less and semantic Mustache templates with Java
 - [geekxh/hello-algorithm](https://github.com/geekxh/hello-algorithm) - 🌍 针对小白的算法训练 | 包括四部分：①.大厂面经 ②.力扣图解  ③.千本开源电子书 ④.百张技术思维导图（项目花了上百小时，希望可以点 star 支持，🌹感谢~）推荐免费ChatGPT使用网站
 - [apache/amoro](https://github.com/apache/amoro) - Apache Amoro(incubating) is a Lakehouse management system built on open data lake formats.
-- [matevip/matecloud](https://github.com/matevip/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 2.7.0、 Spring Cloud 2021、Spring Cloud Alibaba 2021、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
+- [mateaix/matecloud](https://github.com/mateaix/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 2.7.0、 Spring Cloud 2021、Spring Cloud Alibaba 2021、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发套件
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
 - [LangChat/langchat](https://github.com/LangChat/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级A
 - [agents-flex/agents-flex](https://github.com/agents-flex/agents-flex) - Agents-flex is A Lightweight Java AI Application Development Framework.
@@ -2073,7 +2073,7 @@
 - [rlworkgroup/garage](https://github.com/rlworkgroup/garage) - A toolkit for reproducible reinforcement learning research.
 - [HisMax/RedInk](https://github.com/HisMax/RedInk) - Red Ink - A one-stop Xiaohongshu image-and-text generator based on the 🍌Nano Banana Pro🍌, "One Sentence, One Image: Generate Xiaohongshu Text and Images."
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [sci-m-wang/AnnaAgent](https://github.com/sci-m-wang/AnnaAgent) - 
+- [sci-m-wang/AnnaAgent](https://github.com/sci-m-wang/AnnaAgent) - Dynamic evolution agent system with multi-session memory for realistic seeker simulation in psychological counseling.
 - [odoo/odoo](https://github.com/odoo/odoo) - Odoo. Open Source Apps To Grow Your Business.
 - [Tongyi-MAI/Z-Image](https://github.com/Tongyi-MAI/Z-Image) - 
 - [langfuse/langfuse-python](https://github.com/langfuse/langfuse-python) - 🪢 Langfuse Python SDK - Instrument your LLM app with decorators or low-level SDK and get detailed tracing/observability. Works with any LLM or framework
@@ -2404,6 +2404,7 @@
 
 ## Rust 
 
+- [rainnoon/oc-claw](https://github.com/rainnoon/oc-claw) - A desktop pet that monitors your AI coding agents (OpenClaw, Claude Code, Codex, Cursor, Gemini CLI, opencode, Hermes) in real time. OC = OpenClaw. OC = Original Character. Make it yours.
 - [penso/arbor](https://github.com/penso/arbor) - Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs.
 - [CortexLM/cortex-code](https://github.com/CortexLM/cortex-code) - An intelligent coding assistant focused on optimizing code for raw performance and system efficiency at scale.
 - [kata-containers/kata-containers](https://github.com/kata-containers/kata-containers) - Kata Containers is an open source project and community working to build a standard implementation of lightweight Virtual Machines (VMs) that feel and perform like containers, but provide the workload
@@ -2723,7 +2724,7 @@
 - [osvald-go2/meka-flow](https://github.com/osvald-go2/meka-flow) - 
 - [AIDotNet/MoYuCode](https://github.com/AIDotNet/MoYuCode) - 
 - [zilliztech/claude-context](https://github.com/zilliztech/claude-context) - Code search MCP for Claude Code. Make entire codebase the context for any coding agent.
-- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Your 24/7 all-scenario AI agent that gets work done for you.
+- [netease-youdao/LobsterAI](https://github.com/netease-youdao/LobsterAI) - Open-source, desktop-grade AI agent that gets real work done — data analysis, slides, docs, video & web research. Built on OpenClaw; runs tools on your real desktop and takes commands from your phone 
 - [element-hq/element-web](https://github.com/element-hq/element-web) - A glossy Matrix collaboration client for the web.
 - [antvis/chart-visualization-skills](https://github.com/antvis/chart-visualization-skills) - ⛏️ Turning data into a visual language for better thinking with Skills.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
@@ -2755,7 +2756,6 @@
 - [linkerlin/PUAX](https://github.com/linkerlin/PUAX) - 用来驯服AI Agent的效果绝佳的多角色 Prompt！
 - [THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC) - Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click
 - [wickenico/WailBrew](https://github.com/wickenico/WailBrew) - Minimalistic Homebrew GUI made with Go, Wails and React.
-- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [GUI-for-Cores/GUI.for.Clash](https://github.com/GUI-for-Cores/GUI.for.Clash) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Open-source, local-first apps.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
@@ -3405,6 +3405,7 @@
 ## Vue 
 
 - [Neboer/NerChat](https://github.com/Neboer/NerChat) - NerChat!是一个部署在国内的自由Matrix实例，提供公益性质的IM服务。
+- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
 - [Sebastian6848/GoFundBot](https://github.com/Sebastian6848/GoFundBot) - 一个专注于中国基金市场的基金分析工具，能够提供实时估值、定投回测、基金筛选、基金对比等功能，并能结合大语言模型技术对市场行情进行分析。
 - [mergehez/dokie](https://github.com/mergehez/dokie) - An API client and documentation UI, inspired by Postman. A replacement for libraries like Swagger UI and Scalar.
