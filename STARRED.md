@@ -189,7 +189,7 @@
 - [oceanbase/miniob](https://github.com/oceanbase/miniob) - MiniOB is a compact database that assists developers in understanding the fundamental workings of a database.
 - [apache/rocketmq-client-cpp](https://github.com/apache/rocketmq-client-cpp) - Apache RocketMQ cpp client
 - [Codeya-IDE/deepin-ide](https://github.com/Codeya-IDE/deepin-ide) - deepin-ide 是一款支持多语言、跨平台兼容特性的轻量级集成开发环境。
-- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Easy to use open source fast database for search | Good alternative to Elasticsearch | Drop-in replacement for E in the ELK stack
+- [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) - Open-source search database for full-text, vector, and hybrid search with real-time indexing and SQL.
 - [esrrhs/dLua](https://github.com/esrrhs/dLua) - 类似gdb的lua调试器。Lua debugger like gdb
 - [containerd/overlaybd](https://github.com/containerd/overlaybd) - Overlaybd: a block based remote image format. The storage backend of containerd/accelerated-container-image.
 - [Tw1ddle/geometrize](https://github.com/Tw1ddle/geometrize) - :white_square_button: Geometrize is a desktop app that geometrizes images into geometric primitives
@@ -208,7 +208,7 @@
 - [alibaba/havenask](https://github.com/alibaba/havenask) - Havenask is a large-scale distributed information search system widely used within Alibaba Group
 - [Tencent/DCache](https://github.com/Tencent/DCache) - A distributed in-memory NOSQL system based on TARS framework, support LRU algorithm and data persists on  back-end database. Users can easily deploy, publish, and scale services on the web interface.
 - [google/benchmark](https://github.com/google/benchmark) - A microbenchmark support library
-- [SmartKeyerror/reading-source-code-of-leveldb-1.23](https://github.com/SmartKeyerror/reading-source-code-of-leveldb-1.23) - leveldb 源码阅读，分析 DB 运作流程与 WAL、SSTable 等文件格式与 Compaction 过程。
+- [SKeyerror/reading-source-code-of-leveldb-1.23](https://github.com/SKeyerror/reading-source-code-of-leveldb-1.23) - leveldb 源码阅读，分析 DB 运作流程与 WAL、SSTable 等文件格式与 Compaction 过程。
 - [alibaba/tair](https://github.com/alibaba/tair) - A distributed key-value storage system developed by Alibaba Group
 - [canonical/multipass](https://github.com/canonical/multipass) - Multipass orchestrates virtual Ubuntu instances
 - [sqlitebrowser/sqlitebrowser](https://github.com/sqlitebrowser/sqlitebrowser) - Official home of the DB Browser for SQLite (DB4S) project. Previously known as "SQLite Database Browser" and "Database Browser for SQLite". Website at:
@@ -318,7 +318,7 @@
 - [fastclaw-ai/weclaw](https://github.com/fastclaw-ai/weclaw) - Connect to any agents with WeChat ClawBot.
 - [fastclaw-ai/fastclaw](https://github.com/fastclaw-ai/fastclaw) - Multi-Agent Framework
 - [alibaba/loongsuite-go](https://github.com/alibaba/loongsuite-go) - OpenTelemetry Compile-Time Instrumentation for Golang
-- [DotNetAge/mindx](https://github.com/DotNetAge/mindx) - MindX is an open-source AI Agent orchestration platform (Agent Harness) that leverages hybrid orchestration modes, intelligent memory systems, and a proprietary tech stack to help you efficiently buil
+- [DotNetAge/mindx](https://github.com/DotNetAge/mindx) - MindX is a modern AgentOS built for long-running, stateful and multi-agent collaboration. It offers full-stack infrastructure featuring agent orchestration, hierarchical persistent memory, multi-dimen
 - [smallnest/agent-wrapper](https://github.com/smallnest/agent-wrapper) - a wrapper framework for agent runtimes
 - [alibaba/open-code-review](https://github.com/alibaba/open-code-review) - Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-
 - [pinchtab/pinchtab](https://github.com/pinchtab/pinchtab) - High-performance browser automation bridge and multi-instance orchestrator with advanced stealth injection and real-time dashboard.
@@ -1386,7 +1386,6 @@
 - [nextapps-de/spotlight](https://github.com/nextapps-de/spotlight) - The most easy to integrate lightbox image gallery library for the Web.
 - [nextapps-de/winbox](https://github.com/nextapps-de/winbox) - WinBox is a modern HTML5 window manager for the Web.
 - [nextapps-de/flexsearch](https://github.com/nextapps-de/flexsearch) - Next-generation full-text search library for Browser and Node.js
-- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [mattboldt/typed.js](https://github.com/mattboldt/typed.js) - A JavaScript Typing Animation Library
 - [juliangarnier/anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
 - [electerm/electerm-web](https://github.com/electerm/electerm-web) - Running electerm as web app
@@ -2028,6 +2027,7 @@
 - [virattt/ai-hedge-fund](https://github.com/virattt/ai-hedge-fund) - An AI Hedge Fund Team
 - [sanyuan0704/sanyuan-skills](https://github.com/sanyuan0704/sanyuan-skills) - Expert code review skill: SOLID, security, performance, error handling, boundary conditions
 - [lc2panda/StockAnal_Sys](https://github.com/lc2panda/StockAnal_Sys) - 一个基于Python和Flask的Web应用，整合了多维度股票分析能力和人工智能辅助决策功能。系统通过AKShare获取股票数据，结合技术分析、基本面分析和资金面分析，为投资者提供全方位的投资决策支持。
+- [Sebastian6848/GoFundBot](https://github.com/Sebastian6848/GoFundBot) - 一个专注于中国基金市场的基金分析工具，能够提供实时估值、定投回测、基金筛选、基金对比等功能，并能结合大语言模型技术对市场行情进行分析。
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [HKUDS/AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: 100% Fully-Automated Agent-Native Trading"
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Lightweight, open-source AI agent for your tools, chats, and workflows.
@@ -2224,7 +2224,6 @@
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
 - [langchain-ai/local-deep-researcher](https://github.com/langchain-ai/local-deep-researcher) - Fully local web research and report writing assistant
 - [wandb/weave](https://github.com/wandb/weave) - Weave is a toolkit for developing AI-powered applications, built by Weights & Biases.
-- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [truera/trulens](https://github.com/truera/trulens) - Evaluation and Tracking for LLM Experiments and AI Agents
 - [AgentOps-AI/agentops](https://github.com/AgentOps-AI/agentops) - Python SDK for AI agent monitoring, LLM cost tracking, benchmarking, and more. Integrates with most LLMs and agent frameworks including CrewAI, Agno, OpenAI Agents SDK, Langchain, Autogen, AG2, and Ca
 - [pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai) - AI Agent Framework, the Pydantic way
@@ -3002,6 +3001,7 @@
 - [AmintaCCCP/GithubStarsManager](https://github.com/AmintaCCCP/GithubStarsManager) - An app for managing github starred repositories.
 - [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
+- [nolimits4web/swiper](https://github.com/nolimits4web/swiper) - Most modern mobile touch slider with hardware accelerated transitions
 - [onlook-dev/onlook](https://github.com/onlook-dev/onlook) - The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI
 - [DahnM20/ai-flow](https://github.com/DahnM20/ai-flow) - Build custom AI workflows with an easy drag-and-drop interface. Connect models like GPT-4o,  Stable Diffusion, FLUX, and more— with your own API keys.
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
@@ -3039,6 +3039,7 @@
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDB
 - [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) - The agent engineering platform
+- [ag-ui-protocol/ag-ui](https://github.com/ag-ui-protocol/ag-ui) - AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.
 - [QwenLM/qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI coding agent that lives in your terminal.
 - [srbhr/Resume-Matcher](https://github.com/srbhr/Resume-Matcher) - Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.
 - [simstudioai/sim](https://github.com/simstudioai/sim) - Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce.
@@ -3432,7 +3433,6 @@
 - [Neboer/NerChat](https://github.com/Neboer/NerChat) - NerChat!是一个部署在国内的自由Matrix实例，提供公益性质的IM服务。
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [Codennnn/vue-color-avatar](https://github.com/Codennnn/vue-color-avatar) - An online avatar generator just for fun | 一个纯前端实现的头像生成网站
-- [Sebastian6848/GoFundBot](https://github.com/Sebastian6848/GoFundBot) - 一个专注于中国基金市场的基金分析工具，能够提供实时估值、定投回测、基金筛选、基金对比等功能，并能结合大语言模型技术对市场行情进行分析。
 - [mergehez/dokie](https://github.com/mergehez/dokie) - An API client and documentation UI, inspired by Postman. A replacement for libraries like Swagger UI and Scalar.
 - [aiflowy/aiflowy](https://github.com/aiflowy/aiflowy) - AIFlowy is an enterprise-grade AI application development platform based on Java, comparable to products like Dify and Coze.
 - [devlive-community/view-shadcn-ui](https://github.com/devlive-community/view-shadcn-ui) - View Shadcn UI 是一个基于 Tailwind CSS 构建的 Vue3 组件库。
