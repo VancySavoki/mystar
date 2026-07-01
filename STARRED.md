@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [Assembly](#assembly)
 - [Awk](#awk)
 - [Batchfile](#batchfile)
 - [C](#c)
@@ -63,6 +64,10 @@
 - [Vue](#vue)
 - [Zig](#zig)
 
+## Assembly 
+
+- [pret/pokered](https://github.com/pret/pokered) - Disassembly of Pokémon Red/Blue
+
 ## Awk 
 
 - [soimort/translate-shell](https://github.com/soimort/translate-shell) - :speech_balloon: Command-line translator using Google Translate, Bing Translator, Yandex.Translate, etc.
@@ -73,6 +78,7 @@
 
 ## C 
 
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary
 - [tmux/tmux](https://github.com/tmux/tmux) - tmux source code
 - [redis/hiredis](https://github.com/redis/hiredis) - Minimalistic C client for Redis &gt;= 1.2
 - [libretro/RetroArch](https://github.com/libretro/RetroArch) - Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.
@@ -260,7 +266,7 @@
 
 ## Clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design platform for Product teams that need scalable collaboration.
 - [logseq/logseq](https://github.com/logseq/logseq) - A privacy-first, open-source platform for knowledge management and collaboration. Download link:  http://github.com/logseq/logseq/releases. roadmap: https://logseq.io/p/NX4mc_ggEV
 - [jeremykross/konstellate](https://github.com/jeremykross/konstellate) - Free and Open Source GUI to Visualize Kubernetes Applications.
 - [metabase/metabase](https://github.com/metabase/metabase) - The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart:
@@ -312,6 +318,8 @@
 
 ## Go 
 
+- [klauspost/cpuid](https://github.com/klauspost/cpuid) - CPU feature identification for Go
+- [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [nezhahq/nezha](https://github.com/nezhahq/nezha) - :trollface: Self-hosted, lightweight server and website monitoring and O&M tool
 - [esengine/DeepSeek-Reasonix](https://github.com/esengine/DeepSeek-Reasonix) - DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.
 - [codeany-ai/codeany](https://github.com/codeany-ai/codeany) - Open-source AI-powered terminal agent. Built in Go.
@@ -419,6 +427,7 @@
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 - [traefik/yaegi](https://github.com/traefik/yaegi) - Yaegi is Another Elegant Go Interpreter
+- [kubernetes-sigs/gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [toheart/goanalysis](https://github.com/toheart/goanalysis) - go语言代码分析 工具
 - [cjbassi/gotop](https://github.com/cjbassi/gotop) - A terminal based graphical activity monitor inspired by gtop and vtop
@@ -1322,6 +1331,9 @@
 
 ## JavaScript 
 
+- [yangchuansheng/visual-ip-illustrations](https://github.com/yangchuansheng/visual-ip-illustrations) - Codex Skill for consistent 16:9 hand-drawn article illustrations with selectable visual IP routes: Openclaw, Xiaohei, Littlebox, Tom, Ferris, Seal and Gopher.
+- [webbrain-one/webbrain](https://github.com/webbrain-one/webbrain) - Open-source AI browser agent for Chrome and Firefox (monorepo) 🧠
+- [jackwener/OpenTeamFormat](https://github.com/jackwener/OpenTeamFormat) - Portable format for Raft/Slock team and agent templates
 - [AnyGenIO/anygen-skills](https://github.com/AnyGenIO/anygen-skills) - AnyGen AI Skills for AI Agents
 - [browserable/browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -1434,7 +1446,7 @@
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [Unitech/pm2](https://github.com/Unitech/pm2) - Node.js Production Process Manager with a built-in Load Balancer.
 - [juliomrqz/statusfy](https://github.com/juliomrqz/statusfy) - A Marvelous Open Source Status Page System
-- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and streams
+- [asciinema/asciinema-player](https://github.com/asciinema/asciinema-player) - Web player for terminal session recordings and live streams
 - [jojowwbb/PenEditor](https://github.com/jojowwbb/PenEditor) - :rocket: Online Simple Code Editor!support react,html,css,javascript!
 - [CloudWise-OpenSource/FlyFish](https://github.com/CloudWise-OpenSource/FlyFish) - FlyFish is a data visualization coding platform. We can create a data model quickly in a simple way, and quickly generate a set of data visualization solutions by dragging.
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -1680,7 +1692,6 @@
 - [Infrasys-AI/AIInfra](https://github.com/Infrasys-AI/AIInfra) - AIInfra（AI 基础设施）指AI系统从底层芯片等硬件，到上层软件栈支持AI大模型训练和推理。
 - [Infrasys-AI/AISystem](https://github.com/Infrasys-AI/AISystem) - AISystem 主要是指AI系统，包括AI芯片、AI编译器、AI推理和训练框架等AI全栈底层技术
 - [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
-- [kubernetes-sigs/gateway-api-inference-extension](https://github.com/kubernetes-sigs/gateway-api-inference-extension) - Gateway API Inference Extension
 - [anthropics/prompt-eng-interactive-tutorial](https://github.com/anthropics/prompt-eng-interactive-tutorial) - Anthropic's Interactive Prompt Engineering Tutorial
 - [dvgodoy/FineTuningLLMs](https://github.com/dvgodoy/FineTuningLLMs) - Official repository of my book "A Hands-On Guide to Fine-Tuning LLMs with PyTorch and Hugging Face"
 - [huggingface/ai-blueprint](https://github.com/huggingface/ai-blueprint) - A blueprint for AI development, focusing on applied examples of RAG, information extraction, analysis and fine-tuning in the age of LLMs and agents.
@@ -1783,6 +1794,14 @@
 
 ## Others 
 
+- [helloianneo/obsidian-ai-second-brain](https://github.com/helloianneo/obsidian-ai-second-brain) - Obsidian + Claude AI 个人知识库完整搭建指南 | 基于 Karpathy LLM Wiki 方法论 | 4 阶段 12 步 | 不用写代码
+- [helloianneo/ian-xiaohei-scenes](https://github.com/helloianneo/ian-xiaohei-scenes) - Xiaohei 2.0 Codex Skill for Chinese real-object article illustrations and long-scroll story images
+- [helloianneo/ian-handdrawn-ppt](https://github.com/helloianneo/ian-handdrawn-ppt) - 中文手绘技术 PPT 整页图像生成 Skill | 21:9 封面 + 16:9 正文配图 | PNG 输出
+- [helloianneo/ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations) - 中文小黑怪诞正文配图生成 Skill | 16:9 白底手绘 | 少量红橙蓝批注 | Codex Skill
+- [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
+- [alchaincyf/loop-engineering-orange-book](https://github.com/alchaincyf/loop-engineering-orange-book) - 别再问我什么是 Loop Engineering — 橙皮书系列。A plain-language guide to loop engineering (中文 + English PDF). Free.
+- [dokobot/distill-skill](https://github.com/dokobot/distill-skill) - Scrape any X (Twitter) account and distill the person's thinking patterns into a reusable AI persona skill. Powered by Dokobot.
+- [dokobot/skills](https://github.com/dokobot/skills) - Dokobot skills for Claude Code
 - [hans0809/MiniMind-in-Depth](https://github.com/hans0809/MiniMind-in-Depth) - 轻量级大语言模型MiniMind的源码解读，包含tokenizer、RoPE、MoE、KV Cache、pretraining、SFT、LoRA、DPO等完整流程
 - [helm-agent/helm-agent](https://github.com/helm-agent/helm-agent) - Feedback and issue tracking for Helm
 - [WebAssembly/design](https://github.com/WebAssembly/design) - WebAssembly Design Documents
@@ -1930,6 +1949,8 @@
 
 ## Python 
 
+- [virgiliojr94/book-to-skill](https://github.com/virgiliojr94/book-to-skill) - Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.
+- [opensquilla/opensquilla](https://github.com/opensquilla/opensquilla) - OpenSquilla — Token-Efficient AI Agent with same budget, higher intelligence density
 - [jyao97/xylocopa](https://github.com/jyao97/xylocopa) - A to-do list workspace for your Claude Code agents.
 - [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) - World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.
 - [JuneQQQ/polynoia](https://github.com/JuneQQQ/polynoia) - Polynoia — an IM-style platform for collaborating with multiple AI agents at once. An orchestrator auto-decomposes tasks and dispatches them to agents in parallel. FastAPI + React, runs on web, deskto
@@ -2066,7 +2087,7 @@
 - [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) - A compact implementation of SGLang, designed to demystify the complexities of modern LLM serving systems.
 - [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) - Nano vLLM
 - [karpathy/nanoGPT](https://github.com/karpathy/nanoGPT) - The simplest, fastest repository for training/finetuning medium-sized GPTs.
-- [chonkie-inc/chonkie](https://github.com/chonkie-inc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
+- [feyninc/chonkie](https://github.com/feyninc/chonkie) - 🦛 CHONK docs with Chonkie ✨ — The lightweight ingestion library for fast, efficient and robust RAG pipelines
 - [getsentry/sentry](https://github.com/getsentry/sentry) - Developer-first error tracking and performance monitoring
 - [github/spec-kit](https://github.com/github/spec-kit) - 💫 Toolkit to help you get started with Spec-Driven Development
 - [facebookresearch/sam-audio](https://github.com/facebookresearch/sam-audio) - The repository provides code for running inference with the Meta Segment Anything Audio Model (SAM-Audio), links for downloading the trained model checkpoints, and example notebooks that show how to u
@@ -2190,7 +2211,7 @@
 - [janhq/ichigo](https://github.com/janhq/ichigo) - Local realtime voice AI
 - [simonw/llm](https://github.com/simonw/llm) - Access large language models from the command-line
 - [openai/evals](https://github.com/openai/evals) - Evals is a framework for evaluating LLMs and LLM systems, and an open-source registry of benchmarks.
-- [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP Support
+- [evalstate/fast-agent](https://github.com/evalstate/fast-agent) - Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP/A2A Support
 - [roboflow/inference](https://github.com/roboflow/inference) - Turn any computer or edge device into a command center for your computer vision projects.
 - [dottxt-ai/outlines](https://github.com/dottxt-ai/outlines) - Structured Outputs
 - [mlc-ai/mlc-llm](https://github.com/mlc-ai/mlc-llm) - Universal LLM Deployment Engine with ML Compilation
@@ -2607,6 +2628,7 @@
 
 ## Swift 
 
+- [repoprompt/repoprompt-ce](https://github.com/repoprompt/repoprompt-ce) - Community edition of RepoPrompt: a native macOS context engineering app for AI coding agents, with an MCP CLI.
 - [palmier-io/palmier-pro](https://github.com/palmier-io/palmier-pro) - macOS video editor built for AI
 - [chenbstack/glint](https://github.com/chenbstack/glint) - A polished macOS terminal made for AI agents — SwiftUI + AppKit + Ghostty.
 - [iliyami/MacSai](https://github.com/iliyami/MacSai) - Mac Sai: the open-source Mac cleaner, optimizer, and malware scanner. A free, Apple-notarized alternative to CleanMyMac, built with Swift 6 and SwiftUI.
@@ -2643,6 +2665,14 @@
 
 ## TypeScript 
 
+- [maka-agent/maka-agent](https://github.com/maka-agent/maka-agent) - Maka — local-first AI desktop assistant
+- [facebook/astryx](https://github.com/facebook/astryx) - An open source design system that's fully customizable and agent ready
+- [google-labs-code/design.md](https://github.com/google-labs-code/design.md) - A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.
+- [tigicion/dao-code](https://github.com/tigicion/dao-code) - Open-source TypeScript terminal coding agent for DeepSeek-V4 — builds on DeepSeek's strong price-performance and ultra-cheap cache pricing, engineering byte-stable prefixes and cache-reusing forks so 
+- [Egonex-AI/Understand-Anything](https://github.com/Egonex-AI/Understand-Anything) - Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini C
+- [tancredi/fantasticon](https://github.com/tancredi/fantasticon) - Icon font generation tool
+- [langchain-ai/openwork](https://github.com/langchain-ai/openwork) - 
+- [CopilotKit/OpenTag](https://github.com/CopilotKit/OpenTag) - OpenTag
 - [bradygaster/squad](https://github.com/bradygaster/squad) - Squad: AI agent teams for any project
 - [agents-squads/squads-cli](https://github.com/agents-squads/squads-cli) - CLI for managing AI agent squads. Status, memory, goals, feedback, and dashboard for your autonomous agents.
 - [hanshuaikang/nezha](https://github.com/hanshuaikang/nezha) - Code Editor for the AI Agents Era. Run multiple Claude Code and Codex agents across projects on your machine.
@@ -2809,7 +2839,7 @@
 - [YourGPT/copilot-sdk](https://github.com/YourGPT/copilot-sdk) - Copilot SDK for building Production-ready AI Copilots for any product. Connect any LLM, deploy on your infrastructure, own your data. Built for speed and control.
 - [AgnosticUI/agnosticui](https://github.com/AgnosticUI/agnosticui) - AgnosticUI Local (v2) is a CLI-based UI component library that copies components directly into your project. Works with AI tools, agent-driven UIs, and prompt-ready workflows.
 - [moeru-ai/airi](https://github.com/moeru-ai/airi) - 💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraf
-- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning swarm intelligen
+- [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [ibelick/prompt-kit](https://github.com/ibelick/prompt-kit) - Core building blocks for AI apps.  High-quality, accessible, and customizable components for AI interfaces.
 - [ibelick/zola](https://github.com/ibelick/zola) - Open chat interface for all your models.
 - [MCP-UI-Org/mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) - UI over MCP. Create next-gen UI experiences with the protocol and SDK!
@@ -3248,7 +3278,7 @@
 - [vercel/swr](https://github.com/vercel/swr) - React Hooks for Data Fetching
 - [hediet/vscode-drawio](https://github.com/hediet/vscode-drawio) - This unofficial extension integrates Draw.io (also known as diagrams.net) into VS Code.
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System built on Kubernetes that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect f
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
 - [jvilk/BrowserFS](https://github.com/jvilk/BrowserFS) - BrowserFS is an in-browser filesystem that emulates the Node JS filesystem API and supports storing and retrieving files from various backends.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [niklasvh/html2canvas](https://github.com/niklasvh/html2canvas) - Screenshots with JavaScript
