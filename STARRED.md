@@ -163,7 +163,6 @@
 - [AIDotNet/OpenDeepWiki](https://github.com/AIDotNet/OpenDeepWiki) - OpenDeepWiki is the open-source version of the DeepWiki project, aiming to provide a powerful knowledge management and collaboration platform. The project is mainly developed using C# and TypeScript, 
 - [MiniMax-AI/skills](https://github.com/MiniMax-AI/skills) - 
 - [sourcegit-scm/sourcegit](https://github.com/sourcegit-scm/sourcegit) - Windows/macOS/Linux GUI client for GIT users
-- [OpenAiTx/OpenAiTx](https://github.com/OpenAiTx/OpenAiTx) - Auto-translate platform for your GitHub project readme.
 - [microsoft/scalar](https://github.com/microsoft/scalar) - Scalar: A set of tools and extensions for Git to allow very large monorepos to run on Git without a virtualization layer
 - [dotnetcore/AgileConfig](https://github.com/dotnetcore/AgileConfig) - 基于.NET Core开发的轻量级分布式配置中心 / .NET  Core lightweight configuration server
 - [ppy/osu](https://github.com/ppy/osu) - rhythm is just a *click* away!
@@ -362,7 +361,7 @@
 - [yuanrong-proj/yuanrong](https://github.com/yuanrong-proj/yuanrong) - openyuanrong project
 - [multica-ai/multica](https://github.com/multica-ai/multica) - The open-source managed agents platform. Turn coding agents into real teammates — assign tasks, track progress, compound skills.
 - [nats-io/nats-server](https://github.com/nats-io/nats-server) - High-Performance server for NATS.io, the cloud and edge native messaging system.
-- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is a developer platform for Kubernetes
+- [openchoreo/openchoreo](https://github.com/openchoreo/openchoreo) - OpenChoreo is an internal developer platform for Kubernetes
 - [openai/openai-go](https://github.com/openai/openai-go) - The official Go library for the OpenAI API
 - [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.6 Series, Grok 4.5, Claude model 
 - [agentscope-ai/AgentTeams](https://github.com/agentscope-ai/AgentTeams) - An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms.
@@ -687,7 +686,7 @@
 - [redis/go-redis](https://github.com/redis/go-redis) - Redis Go client
 - [go-redis/redismock](https://github.com/go-redis/redismock) - Redis client Mock
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
-- [bytebase/bytebase](https://github.com/bytebase/bytebase) - World's most advanced database DevSecOps solution for Developer, Security, DBA and Platform Engineering teams. The GitHub/GitLab for database DevSecOps.
+- [bytebase/bytebase](https://github.com/bytebase/bytebase) - The standard of database governance. Govern changes and access across every major database type - by humans and agents.
 - [frain-dev/convoy](https://github.com/frain-dev/convoy) - The Cloud Native Webhooks Gateway
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [uber-go/gopatch](https://github.com/uber-go/gopatch) - Refactoring and code transformation tool for Go.
@@ -874,6 +873,7 @@
 
 ## HTML 
 
+- [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 - [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
 - [mixmark-io/turndown](https://github.com/mixmark-io/turndown) - 🛏 An HTML to Markdown converter written in JavaScript
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.
@@ -1367,7 +1367,7 @@
 
 ## JavaScript 
 
-- [soyona/x-to-xhs](https://github.com/soyona/x-to-xhs) - 将 X/Twitter 帖子二度创作为可审稿、可分步骤发布的小红书长文草稿｜本地运行｜多模型自动降级
+- [soyona/x-to-xhs](https://github.com/soyona/x-to-xhs) - 小红书长文笔记 Agent工具｜本地运行｜免费多模型自动降级｜支持gemini-3.5-flash,gemini-3.6等模型
 - [zhongerxin/Cowart](https://github.com/zhongerxin/Cowart) - 
 - [runc/Cowart](https://github.com/runc/Cowart) - 纯浏览器无限画布 + AI 图像生成工具（去 Codex 化二开）
 - [linxidnju/OpenTag](https://github.com/linxidnju/OpenTag) - Open-source, channel-native agent gateway for Slack. Route team threads to Claude Code, Codex, OpenCode, Docker, HTTP agents, and custom CLIs with policy, approvals, memory, audit logs, and artifacts.
@@ -1378,7 +1378,6 @@
 - [jxnblk/mdx-deck](https://github.com/jxnblk/mdx-deck) - ♠️ React MDX-based presentation decks
 - [marp-team/marpit](https://github.com/marp-team/marpit) - The skinny framework for creating slide deck from Markdown
 - [pixlcore/xyops](https://github.com/pixlcore/xyops) - A complete workflow automation and server monitoring system.
-- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [remarkjs/remark](https://github.com/remarkjs/remark) - markdown processor powered by plugins part of the @unifiedjs collective
 - [nexu-io/motion-anything](https://github.com/nexu-io/motion-anything) - ✨ The agentic motion layer — an open-source, chat-native motion engine. Describe the feeling; your AI ships the animation.
 - [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) - Codex Dream Skin
@@ -1391,6 +1390,7 @@
 - [browserable/browserable](https://github.com/browserable/browserable) - Open source and self-hostable browser automation library for AI agents
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master) - An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others.
+- [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
 - [liyupi/ai-guide](https://github.com/liyupi/ai-guide) - 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（Agent Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cu
 - [meespace/hermes-slate-desk](https://github.com/meespace/hermes-slate-desk) - hermes-slate-desk
 - [datawhalechina/easy-vibe](https://github.com/datawhalechina/easy-vibe) - 💻 vibe coding 2026 | Your First Modern Coding Course Beginners to Master Step by Step.
@@ -1522,7 +1522,6 @@
 - [faressoft/terminalizer](https://github.com/faressoft/terminalizer) - 🦄 Record your terminal and generate animated gif images or share a web player
 - [jasonChen1982/three.interaction.js](https://github.com/jasonChen1982/three.interaction.js) - three.js interaction toolkit, help you built an interaction event-system for three.js, binding interaction event like browser-dom
 - [wuranxu/pityWeb](https://github.com/wuranxu/pityWeb) - 🎉一个持续迭代的开源接口测试平台(前端)，欢迎大家多提issue多给反馈。 求star⭐，我会努力更新下去的！
-- [svg/svgo](https://github.com/svg/svgo) - SVG Optimizer for Node.js and CLI. ⚙️
 - [google/closure-library](https://github.com/google/closure-library) - Google's common JavaScript library
 - [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text
 - [borisyankov/react-sparklines](https://github.com/borisyankov/react-sparklines) - Beautiful and expressive Sparklines React component
@@ -1660,6 +1659,7 @@
 - [YMFE/yapi](https://github.com/YMFE/yapi) - YApi 是一个可本地部署的、打通前后端及QA的、可视化的接口管理平台
 - [github/relative-time-element](https://github.com/github/relative-time-element) - Web component extensions to the standard &lt;time&gt; element.
 - [JakeChampion/fetch](https://github.com/JakeChampion/fetch) - A window.fetch JavaScript polyfill.
+- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [CodeboxIDE/codebox](https://github.com/CodeboxIDE/codebox) - Open source cloud & desktop IDE
 - [microsoft/TypeScript-Handbook](https://github.com/microsoft/TypeScript-Handbook) - Deprecated, please use the TypeScript-Website repo instead
 - [youzan/vant-weapp](https://github.com/youzan/vant-weapp) - 轻量、可靠的小程序 UI 组件库
@@ -1736,7 +1736,7 @@
 - [bbruceyuan/Hands-On-Large-Language-Models-CN](https://github.com/bbruceyuan/Hands-On-Large-Language-Models-CN) - 中文翻译的 Hands-On-Large-Language-Models (hands-on-llms)，动手学习大模型
 - [bbruceyuan/LLMs-Zero-to-Hero](https://github.com/bbruceyuan/LLMs-Zero-to-Hero) - 从无名小卒到大模型（LLM）大英雄~ 欢迎关注后续！！！
 - [GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese](https://github.com/GitHubDaily/ChatGPT-Prompt-Engineering-for-Developers-in-Chinese) - 《面向开发者的 ChatGPT 提示词工程》非官方版中英双语字幕 Unofficial subtitles of "ChatGPT Prompt Engineering for Developers"
-- [Tongyi-MAI/MAI-UI](https://github.com/Tongyi-MAI/MAI-UI) - MAI-UI: Real-World Centric Foundation GUI Agents ranging from 2B to 235B
+- [Tongyi-MAI/MAI-UI](https://github.com/Tongyi-MAI/MAI-UI) - Qwen-UI-Agent: Towards Next-Generation Real-World Centric Foundation GUI Agent
 - [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) - A modular Agentic RAG built with LangGraph — learn Retrieval-Augmented Generation Agents in minutes.
 - [datawhalechina/happy-llm](https://github.com/datawhalechina/happy-llm) - 📚 从零开始构建大模型
 - [anthropics/claude-cookbooks](https://github.com/anthropics/claude-cookbooks) - A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.
@@ -1845,6 +1845,8 @@
 
 ## Others 
 
+- [op7418/Humanizer-zh](https://github.com/op7418/Humanizer-zh) - Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。
+- [op7418/guizang-material-illustration](https://github.com/op7418/guizang-material-illustration) - 归藏的材质插画 skill：生成带字解释图、图表美化和参考辅助配图。
 - [emilkowalski/skills](https://github.com/emilkowalski/skills) - Skills for Design Engineers.
 - [tldraw/tldraw-offline](https://github.com/tldraw/tldraw-offline) - A desktop app for using tldraw with local files.
 - [travisvn/awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows — particularly Claude Code
@@ -2008,9 +2010,10 @@
 
 ## Python 
 
-- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.
+- [scaccogatto/okf-skills](https://github.com/scaccogatto/okf-skills) - The OKF toolkit for Claude Code — author, maintain, validate & visualize Open Knowledge Format bundles. Plugin, agent skills, and a GitHub Action.
+- [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) - A skill to stop your coding agent from burying the answer. ADHD-friendly output.
 - [bojieli/ai-agent-book](https://github.com/bojieli/ai-agent-book) - 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码
-- [AstrBotDevs/AstrBot_Plugins_Collection](https://github.com/AstrBotDevs/AstrBot_Plugins_Collection) - AstrBot Plugin Collections
+- [AstrBotDevs/AstrBot_Plugins_Collection](https://github.com/AstrBotDevs/AstrBot_Plugins_Collection) - AstrBot Plugin Collections. Submit plugin: https://cloud.astrbot.app/
 - [Hchen1218/heytea-style](https://github.com/Hchen1218/heytea-style) - 
 - [MervinPraison/PraisonAIUI](https://github.com/MervinPraison/PraisonAIUI) - PraisonAIUI gives you a full-featured AI dashboard with multi-agent chat, memory, skills, sessions, and 19 admin pages — all from a single app.py. It also supports YAML-driven chat bots and static doc
 - [PraisonLabs/Praison](https://github.com/PraisonLabs/Praison) - Praison is a production-ready framework for building multi-agent AI systems that enables intelligent agents to collaborate, reason, self-reflect, and use tools to automate tasks, with support for over
@@ -2536,7 +2539,7 @@
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified interface for email, messages, tasks, calls, agents, pull requests, docs, crm — linked together with shared AI memory.
 - [otty-shell/otty](https://github.com/otty-shell/otty) - an open-source terminal-centric workspace for development and operations.
 - [Open-Less/openless](https://github.com/Open-Less/openless) - Hold a key, speak, release — AI-polished text appears at your cursor in any app. Open-source voice input for macOS & Windows. (按住快捷键说话，松开即得润色后的文字)
-- [herdrdev/herdr](https://github.com/herdrdev/herdr) - agent multiplexer that lives in your terminal.
+- [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [taichuy/1flowbase](https://github.com/taichuy/1flowbase) - Open-source AI gateway for local agent clients: publish fusion-style multi-model workflows as OpenAI/Claude-compatible virtual models with traces, tokens, latency, and cost visibility.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [tursodatabase/turso](https://github.com/tursodatabase/turso) - A SQL database in Rust: SQLite-compatible, now also speaking Postgres (experimental). The LLVM of databases.
@@ -2673,6 +2676,7 @@
 
 ## Shell 
 
+- [egregore-labs/egregore](https://github.com/egregore-labs/egregore) - Shared intelligence layer for organizations
 - [TerminalSkills/skills](https://github.com/TerminalSkills/skills) - Open-source library of AI agent skills — SKILL.md files for Claude Code, Codex, Gemini CLI, Cursor
 - [agentspace-so/skills](https://github.com/agentspace-so/skills) - 
 - [mattpocock/skills](https://github.com/mattpocock/skills) - Skills for Real Engineers. Straight from my .agents directory.
@@ -2782,6 +2786,8 @@
 
 ## TypeScript 
 
+- [Autoloops/greplica](https://github.com/Autoloops/greplica) - Persistent, searchable engineering memory for AI coding agents. Saves ~50% tokens and ~30% time while planning
+- [fancyboi999/open-tag](https://github.com/fancyboi999/open-tag) - Open-source, self-hostable alternative to Claude Tag — a Slack-style workspace where your team and its AI agents (Claude Code, Codex, GitHub Copilot, and more) work as teammates in channels, threads, 
 - [makecindy/cindy](https://github.com/makecindy/cindy) - Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。
 - [syabro/mdtask](https://github.com/syabro/mdtask) - The spec-driven development system where specs and tasks live in your repo and never drift from the code.
 - [ai4kanban/ai4kanban](https://github.com/ai4kanban/ai4kanban) - AI project management that grows with you
@@ -2829,6 +2835,7 @@
 - [ianstormtaylor/slate](https://github.com/ianstormtaylor/slate) - A completely customizable framework for building rich text editors. (Currently in beta.)
 - [TypeCellOS/BlockNote](https://github.com/TypeCellOS/BlockNote) - A React Rich Text Editor that's block-based (Notion style) and extensible. Built on top of Prosemirror and Tiptap.
 - [udecode/plate](https://github.com/udecode/plate) - Rich-text editor with AI and shadcn/ui
+- [markdown-it/markdown-it](https://github.com/markdown-it/markdown-it) - Markdown parser, done right. 100% CommonMark support, extensions, syntax plugins & high speed
 - [AIGeniusInstitute/deepthink](https://github.com/AIGeniusInstitute/deepthink) - DeepThink, A Loop Engineering App Running On Desktop, and Integregate IM channels (feishu, wexin, etc.)  最新版在 Gitcode:
 - [Emanuele-web04/synara](https://github.com/Emanuele-web04/synara) - The best place to build with your AI sub
 - [amplifthq/opentag](https://github.com/amplifthq/opentag) - Open-source @agent mentions for Slack and GitHub. OpenTag routes tagged requests to Codex, Claude Code, then returns results in thread.
@@ -2912,7 +2919,6 @@
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
 - [sjyinzju/Galcode_island](https://github.com/sjyinzju/Galcode_island) - 一个面向本地代码项目的桌面 Agent 工作台，把 Claude Code、OpenCode 和 Codex 放进同一套桌宠式界面里。
-- [wxtsky/byob](https://github.com/wxtsky/byob) - Bring Your Own Browser — let your AI agent use the Chrome you already have open
 - [mihomo-party-org/clash-party](https://github.com/mihomo-party-org/clash-party) - :electron: Another Mihomo GUI.
 - [EryouHao/zano](https://github.com/EryouHao/zano) - A collaborative workspace where humans and AI agents work together in shared channels
 - [superdesigndev/superdesign](https://github.com/superdesigndev/superdesign) - AI Product Design Agent - Open Source
@@ -2942,7 +2948,7 @@
 - [PM-Shawn/Abu-Cowork](https://github.com/PM-Shawn/Abu-Cowork) - Open-source alternative to Claude Cowork — a local-first AI agent desktop app · multi-model · self-evolving skills · privacy-first
 - [openmule/gacua](https://github.com/openmule/gacua) - The World's First Out-of-the-Box Computer Use Agent Powered by Gemini-CLI @openmule
 - [fathah/hermes-desktop](https://github.com/fathah/hermes-desktop) - Desktop Companion for Hermes Agent
-- [openocta/openocta](https://github.com/openocta/openocta) - 开源 work buddies，支持自定义模型接入、不用积分制付费。国产开源的个人桌面级智能体，适用于电脑办公、文档处理、IT运维与安全、市场营销等场景。
+- [openocta/openocta](https://github.com/openocta/openocta) - 国产开源的桌面级智能体，信创安全，适用于电脑办公、文档处理、IT运维与安全、市场营销等场景。
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [1weiho/open-slide](https://github.com/1weiho/open-slide) - A slide framework built for agents.
 - [vercel/workflow](https://github.com/vercel/workflow) - Workflow SDK: Build durable, reliable, and observable apps and AI Agents in TypeScript
@@ -3144,7 +3150,7 @@
 - [zaidmukaddam/scira](https://github.com/zaidmukaddam/scira) - Scira (Formerly MiniPerplx) is a minimalistic AI-powered search engine that helps you find information on the internet and cites it too. Powered by Vercel AI SDK!
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [kafbat/kafka-ui](https://github.com/kafbat/kafka-ui) - Open-Source Web UI for managing Apache Kafka clusters
-- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - TraceRoot - open-source observability and self-healing layer for AI agents. YC S25
+- [traceroot-ai/traceroot](https://github.com/traceroot-ai/traceroot) - TraceRoot - open-source observability and self-improving layer for AI agents. YC S25
 - [microsoft/inshellisense](https://github.com/microsoft/inshellisense) - IDE style command line auto complete
 - [superagent-ai/grok-cli](https://github.com/superagent-ai/grok-cli) - An open-source coding agent for the Grok API
 - [google/adk-web](https://github.com/google/adk-web) - Agent Development Kit Web (adk web) is the built-in developer UI that is integrated with Agent Development Kit for easier agent development and debugging.
@@ -3251,7 +3257,7 @@
 - [VSCodeVim/Vim](https://github.com/VSCodeVim/Vim) - :star: Vim for Visual Studio Code
 - [Anionex/treeAI](https://github.com/Anionex/treeAI) - Chat to LLMs in the form of tree 和llm以树的形式聊天，类似flowith.ai
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
-- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The Company AI Command Center
+- [kortix-ai/suna](https://github.com/kortix-ai/suna) - The open-source AI Management System
 - [chaitin/PandaWiki](https://github.com/chaitin/PandaWiki) - PandaWiki 是一款 AI 大模型驱动的开源知识库搭建系统，帮助你快速构建智能化的 产品文档、技术文档、FAQ、博客系统，借助大模型的力量为你提供 AI 创作、AI 问答、AI 搜索等能力。
 - [openai/openai-realtime-agents](https://github.com/openai/openai-realtime-agents) - This is a simple demonstration of more advanced, agentic patterns built on top of the Realtime API.
 - [Scale3-Labs/langtrace](https://github.com/Scale3-Labs/langtrace) - Langtrace 🔍 is an open-source,  Open Telemetry based end-to-end observability tool for LLM applications, providing real-time tracing, evaluations and metrics for popular LLMs, LLM frameworks, vectorDB
@@ -3316,7 +3322,7 @@
 - [ant-design/x](https://github.com/ant-design/x) - Craft AI-driven interface effortlessly🤖
 - [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - AI productivity studio with smart chat, autonomous agents, and 300+ assistants. Unified access to frontier LLMs
 - [openlit/openlit](https://github.com/openlit/openlit) - Open source platform for AI Engineering: OpenTelemetry-native LLM Observability, GPU Monitoring, Guardrails, Evaluations, Prompt Management, Vault, Playground. 🚀💻 Integrates with 50+ LLM Providers, Ve
-- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source ai monitoring platform.
+- [latitude-dev/latitude-llm](https://github.com/latitude-dev/latitude-llm) - Latitude is the open-source AI monitoring platform.
 - [lmnr-ai/lmnr](https://github.com/lmnr-ai/lmnr) - Laminar - open-source observability platform purpose-built for AI agents. YC S24.
 - [antvis/S2](https://github.com/antvis/S2) - ⚡️ A practical visualization library for tabular analysis.
 - [Azure/fetch-event-source](https://github.com/Azure/fetch-event-source) - A better API for making Event Source requests, with all the features of fetch()
@@ -3605,7 +3611,6 @@
 - [apollographql/apollo-client](https://github.com/apollographql/apollo-client) - The industry-leading GraphQL client for TypeScript, JavaScript, React, Vue, Angular, and more. Apollo Client delivers powerful caching, intuitive APIs, and comprehensive developer tools to accelerate 
 - [x-extends/vxe-table](https://github.com/x-extends/vxe-table) - vxe table 支持 vue2, vue3 的表格解决方案
 - [algolia/instantsearch](https://github.com/algolia/instantsearch) - ⚡️ Libraries for building performant and instant search and and discovery experiences with Algolia. Compatible with JavaScript, TypeScript, React and Vue.
-- [carbon-design-system/carbon](https://github.com/carbon-design-system/carbon) - A design system built by IBM
 - [leon-ai/leon](https://github.com/leon-ai/leon) - 🧠 Leon is your open-source personal assistant.
 - [eclipse-che/che](https://github.com/eclipse-che/che) - Kubernetes based Cloud Development Environments for Enterprise Teams
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
