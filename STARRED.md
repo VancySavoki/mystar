@@ -332,6 +332,7 @@
 
 ## Go 
 
+- [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
 - [yan5xu/codexloom](https://github.com/yan5xu/codexloom) - Turn Codex threads into an organization of long-lived domain agents.
 - [mattermost/mattermost-plugin-agents](https://github.com/mattermost/mattermost-plugin-agents) - Mattermost Agents plugin supporting multiple LLMs
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
@@ -957,7 +958,6 @@
 
 ## Java 
 
-- [ezdemo/loopra](https://github.com/ezdemo/loopra) - Loopra is a pure-Java AI coding agent.
 - [huxuehao/apboa-next](https://github.com/huxuehao/apboa-next) - Apboa Next是基于React理念的智能体开发平台，让复杂开发简单高效。提供敏感词过滤、提示词工坊、多模型接入、工具集成、工作流、知识库与编排管理等全链路方案，模块无缝整合。 新版本后台拆分为5个服务、1个控制台、3个可扩展运行时及1个消息服务，支持分布式部署与弹性扩容；前端强化多租户与权限隔离。支持多Session并行、消息后端存储、状态自动保存及断流续传，新增文档识别，全面突破智能体边界
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [databufflabs/databuff](https://github.com/databufflabs/databuff) - AI-native OpenTelemetry APM with multi-agent root-cause analysis across traces, metrics, and service topology
@@ -1380,6 +1380,7 @@
 - [Niall-Young/Canvasight](https://github.com/Niall-Young/Canvasight) - 用于梳理任务然后交付给 AI 工具的 plugin 插件
 - [openai/plugins](https://github.com/openai/plugins) - OpenAI Plugins
 - [wangranm-a11y/later-space](https://github.com/wangranm-a11y/later-space) - A local-first infinite canvas for collecting images, links, and ideas.
+- [ezdemo/loopra](https://github.com/ezdemo/loopra) - Loopra is a pure-Java AI coding agent.
 - [zotero/zotero](https://github.com/zotero/zotero) - Zotero is a free, easy-to-use tool to help you collect, organize, annotate, cite, and share your research sources.
 - [godfaddaai/multiplayer-ai](https://github.com/godfaddaai/multiplayer-ai) - Make Codex and Claude Code sessions multiplayer from the terminal.
 - [penecho/penecho](https://github.com/penecho/penecho) - Think with AI beyond the chat box. A shared canvas for handwriting, equations, diagrams, and spatial reasoning.
@@ -2036,6 +2037,8 @@
 
 ## Python 
 
+- [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
+- [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
 - [cubeplexai/cubeplex](https://github.com/cubeplexai/cubeplex) - AI agent workspace for teams
 - [AMAP-ML/LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) - The long-horizon computer-use harness. Run AI agents across desktop apps and the CLI for extended periods while preserving task state and making reliable progress on complex workflows. Features fresh-
 - [aws/context-ontology-accelerator](https://github.com/aws/context-ontology-accelerator) - An open-source, ontology-based semantic context accelerator that enables AI agents to make more accurate, consistent, and explainable decisions.
@@ -2773,6 +2776,7 @@
 
 ## Svelte 
 
+- [SikandarJODD/svelte-animations](https://github.com/SikandarJODD/svelte-animations) - Svelte Magic UI, Svelte Aceternity UI, Svelte Components build using Tailwind CSS & Framer Motion
 - [open-webui/desktop](https://github.com/open-webui/desktop) - Open WebUI Desktop 🌐
 - [pluja/whishper](https://github.com/pluja/whishper) - Transcribe any audio to text, translate and edit subtitles 100% locally with a web UI. Powered by whisper models!
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
@@ -2820,6 +2824,10 @@
 
 ## TypeScript 
 
+- [nixrajput/portfolio-nextjs](https://github.com/nixrajput/portfolio-nextjs) - This repository contains the source code for a portfolio website built using Next.js, TypeScript, Sass, Tailwind, and Aceternity UI.
+- [arihantcodes/spectrum-ui](https://github.com/arihantcodes/spectrum-ui) - Spectrum UI ⭐ is a collection of re-usable components built using Aceternity UI Magic UI and ShadCN UI that you can copy and paste into your apps.
+- [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) - Free, open-source AI office suite for macOS, Windows & Linux — Word (.docx), Excel (.xlsx), PowerPoint (.pptx), PDF and Markdown editing with built-in AI agents.
+- [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
 - [cloudcli-ai/cloudcli-plugin-starter](https://github.com/cloudcli-ai/cloudcli-plugin-starter) - A starter plugin for CloudCLI UI that displays project stats, file counts, lines of code, file-type breakdown, and recent activity. Use as a template to build your own plugins
 - [emilkowalski/sonner](https://github.com/emilkowalski/sonner) - An opinionated toast component for React.
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
