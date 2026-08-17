@@ -333,6 +333,7 @@
 
 ## Go 
 
+- [gocronx/kubevision](https://github.com/gocronx/kubevision) - An AI-native Kubernetes dashboard
 - [Untrivial-ai/agent-orchestrator](https://github.com/Untrivial-ai/agent-orchestrator) - Agent IDE that enables you to manage fleets of coding agents. It comes with an agentic orchestrator that plans tasks, spawns agents, and autonomously handles CI fixes, merge conflicts, and code review
 - [yan5xu/codexloom](https://github.com/yan5xu/codexloom) - Turn Codex threads into an organization of long-lived domain agents.
 - [mattermost/mattermost-plugin-agents](https://github.com/mattermost/mattermost-plugin-agents) - Mattermost Agents plugin supporting multiple LLMs
@@ -500,7 +501,7 @@
 - [docker/model-runner](https://github.com/docker/model-runner) - Docker Model Runner
 - [docker/mcp-gateway](https://github.com/docker/mcp-gateway) - docker mcp CLI plugin / MCP Gateway
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
-- [ciliverse/cilikube](https://github.com/ciliverse/cilikube) - cilikube is a k8s admin mutli cluster manage platform, ideal for learning Vue,React, Go, and Kubernetes
+- [ciliverse/cilikube](https://github.com/ciliverse/cilikube) - Multi-cluster Kubernetes admin: nodes, workloads, topology, and a React + Go console. Learn k8s, helm, and cluster ops.
 - [kevwan/go-stash](https://github.com/kevwan/go-stash) - go-stash is a high performance, free and open source server-side data processing pipeline that ingests data from Kafka, processes it, and then sends it to ElasticSearch.
 - [buildkite/terminal-to-html](https://github.com/buildkite/terminal-to-html) - Converts arbitrary shell output (with ANSI) into beautifully rendered HTML
 - [weibaohui/k8m](https://github.com/weibaohui/k8m) - 一款轻量级、跨平台的 Mini Kubernetes AI Dashboard，支持大模型+智能体+MCP(支持设置操作权限)，集成多集群管理、智能分析、实时异常检测等功能，支持多架构并可单文件部署，助力高效集群管理与运维优化。
@@ -1915,6 +1916,7 @@
 - [accomplish-ai/coworker](https://github.com/accomplish-ai/coworker) - 
 - [stackblitz/core](https://github.com/stackblitz/core) - Online IDE powered by Visual Studio Code ⚡️
 - [stackblitz/webcontainer-core](https://github.com/stackblitz/webcontainer-core) - Dev environments. In your web app.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [kepano/obsidian-skills](https://github.com/kepano/obsidian-skills) - Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.
 - [yetone/alma-releases](https://github.com/yetone/alma-releases) - 
 - [punkpeye/awesome-mcp-clients](https://github.com/punkpeye/awesome-mcp-clients) - A collection of MCP clients.
@@ -2041,7 +2043,7 @@
 
 ## Python 
 
-- [HirezmingD/Knowe-agent-groupchat](https://github.com/HirezmingD/Knowe-agent-groupchat) - Knowe — 友好易上手的轻办公AI智能体，采用类微信群组的交互与管理模式。 — An easy-to-use desktop office AI agent with a WhatsApp-groupchat-style conversational interface.
+- [HirezmingD/Knowe-agent-groupchat](https://github.com/HirezmingD/Knowe-agent-groupchat) - 友好易上手的轻办公AI智能体，采用类微信群组的交互与管理模式。 — An easy-to-use desktop office AI agent with a WhatsApp-groupchat-style conversational interface.
 - [Priivacy-ai/spec-kitty](https://github.com/Priivacy-ai/spec-kitty) - Spec-Driven Development for serious software developers. Spec Coding with with Claude, Cursor, Gemini, Codex. Kanban dashboard, git worktrees, auto-merge and more.
 - [kirodotdev/KiroCrew](https://github.com/kirodotdev/KiroCrew) - A persistent workspace for development work that self-improves and continues beyond one session.
 - [cubeplexai/cubeplex](https://github.com/cubeplexai/cubeplex) - AI agent workspace for teams
@@ -2202,7 +2204,6 @@
 - [lupantech/AgentFlow](https://github.com/lupantech/AgentFlow) - AgentFlow: In-the-Flow Agentic System Optimization
 - [lesleslie/excalidraw-mcp](https://github.com/lesleslie/excalidraw-mcp) - Unofficial Excalidraw MCP Server
 - [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
-- [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [memodb-io/memobase](https://github.com/memodb-io/memobase) - User Profile-Based Long-Term Memory for AI Chatbot Applications.
 - [getzep/graphiti](https://github.com/getzep/graphiti) - Build Real-Time Knowledge Graphs for AI Agents
 - [shareAI-lab/learn-claude-code](https://github.com/shareAI-lab/learn-claude-code) - Bash is all you need -  A nano claude code–like 「agent harness」, built from 0 to 1
@@ -2575,7 +2576,7 @@
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - HTTP routing and request-handling library for Rust that focuses on ergonomics and modularity
 - [stello-agent/kitkit-cli](https://github.com/stello-agent/kitkit-cli) - Command-line access to KitKit spaces, conversation topology, session digests, insight push, shared memory, and forks.
 - [block/buzz](https://github.com/block/buzz) - A hive mind communication platform
-- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 70+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
+- [t8y2/dbx](https://github.com/t8y2/dbx) - 20 MB lightweight cross-platform database client for 80+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docke
 - [vercel/turborepo](https://github.com/vercel/turborepo) - Build system optimized for JavaScript and TypeScript, written in Rust
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [macro-inc/macro](https://github.com/macro-inc/macro) - Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.
@@ -2848,7 +2849,7 @@
 - [cjhyy/codeshell](https://github.com/cjhyy/codeshell) - An open-source AI coding assistant for your terminal, inspired by Claude Code. Interact with your codebase directly from the command line.
 - [cloudflare/cloudflare-os](https://github.com/cloudflare/cloudflare-os) - Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.
 - [EveryInc/proof-sdk](https://github.com/EveryInc/proof-sdk) - Proof SDK: open-source collaborative editor, provenance model, and agent HTTP bridge
-- [recombyn/recombyn](https://github.com/recombyn/recombyn) - Source-available visual design editor + AI Design Agent. Self-host with Docker Compose.
+- [recombyn/recombyn](https://github.com/recombyn/recombyn) - Open-source infinite vector canvas and AI Design Agent — shape, text, media, and path editing with realtime collaboration; self-host with Docker Compose.
 - [poco-ai/Agentero](https://github.com/poco-ai/Agentero) - Agent 友好的文献管理方式
 - [Mininglamp-OSS/octo-web](https://github.com/Mininglamp-OSS/octo-web) - Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX.
 - [DrErwin/ai-developer-dashboard](https://github.com/DrErwin/ai-developer-dashboard) - Local-first AI developer dashboard for Claude Code, OpenAI Codex, and Git. Prioritize projects, track status, review activity, and decide what to do next.
@@ -2894,7 +2895,7 @@
 - [MeisnerDan/mission-control](https://github.com/MeisnerDan/mission-control) - Open-source task management for the agentic era. The command center for solo entrepreneurs who delegate work to AI agents.
 - [motion-space/thescreen.cam](https://github.com/motion-space/thescreen.cam) - Landing page of ScreenCam
 - [MapleTechLabs/maple](https://github.com/MapleTechLabs/maple) - OpenTelemetry observability platform
-- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 339 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
+- [diegosouzapw/OmniRoute](https://github.com/diegosouzapw/OmniRoute) - Never stop coding. Free MIT AI gateway: one endpoint, 340 providers (90+ free), 1200+ models — Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline
 - [ni5arga/protestchat](https://github.com/ni5arga/protestchat) - Encrypted messaging with no internet, no cell tower, and no server. Phones relay for each other over Bluetooth mesh, so it keeps working during internet shutdowns and inside cellular jammers
 - [NullLabTests/software-periodic-table](https://github.com/NullLabTests/software-periodic-table) - A finite ontology of 115 recurring software elements and a composition framework for LLM-based coding agents
 - [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
@@ -2986,7 +2987,7 @@
 - [ducktors/turborepo-remote-cache](https://github.com/ducktors/turborepo-remote-cache) - Open source implementation of the Turborepo custom remote cache server.
 - [legeling/PromptHub](https://github.com/legeling/PromptHub) - 一款包含了 Prompt管理，Skill管理，Agent管理的一站式AI工具箱，助你高效管理提示词，一键分发skills ，一站式管理Agent资产，并实现云同步，备份，版本管理 | An all-in-one AI toolbox for prompt, agent, and skills management. Reuse prompts, distribute skills with one
 - [O0000-code/CC-Workshop](https://github.com/O0000-code/CC-Workshop) - A macOS desktop app for managing Claude Code configurations — Skills, MCP Servers, and CLAUDE.md files
-- [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - CC GUI Client (VibeCoding Platform Designed for Developers)
+- [zhukunpenglinyutong/desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui) - Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI.
 - [EveryInc/compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) - Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more
 - [OpenBMB/PilotDeck](https://github.com/OpenBMB/PilotDeck) - Task-oriented AI Agent productivity platform
 - [mksglu/context-mode](https://github.com/mksglu/context-mode) - Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and   enforces routing across 17 platforms via MCP + hooks.
@@ -3264,7 +3265,7 @@
 - [reaviz/reaflow](https://github.com/reaviz/reaflow) - 🎯 React library for building workflow editors, flow charts and diagrams. Maintained by @goodcodeus.
 - [alibaba/page-agent](https://github.com/alibaba/page-agent) - JavaScript in-page GUI agent. Control web interfaces with natural language.
 - [evilmartians/agent-prism](https://github.com/evilmartians/agent-prism) - React components for visualizing traces from AI agents
-- [opactorai/Claudable](https://github.com/opactorai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
+- [anymorph-ai/Claudable](https://github.com/anymorph-ai/Claudable) - Claudable is an open-source web builder that leverages local CLI agents, such as Claude Code, Codex, Gemini CLI, Qwen Code, and Cursor Agent, to build and deploy products effortlessly.
 - [CatchTheTornado/open-agents-builder](https://github.com/CatchTheTornado/open-agents-builder) - AI Agents are missing the UI! We're here to change it. Build Business AI Agents for your company: business workflows, API's, bookings, e-commerce, social commerce, b2b, CPQ, intake forms, NPS tests, m
 - [firecrawl/open-agent-builder](https://github.com/firecrawl/open-agent-builder) - 🔥 Visual workflow builder for AI agents powered by Firecrawl - drag-and-drop web scraping pipelines with real-time execution
 - [ivo-toby/mcp-openapi-server](https://github.com/ivo-toby/mcp-openapi-server) - MCP Server (Model Context Protocol) for turning OpenAPI specifications into a MCP Resource
