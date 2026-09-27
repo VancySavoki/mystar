@@ -910,7 +910,6 @@
 - [Manavarya09/design-extract](https://github.com/Manavarya09/design-extract) - Extract any website's complete design system with one command. DTCG tokens, semantic+primitive+composite, MCP server for Claude Code/Cursor/Windsurf, multi-platform emitters (iOS SwiftUI, Android Comp
 - [guchang/draw2code](https://github.com/guchang/draw2code) - Human-AI collaborative prototyping for DeepSeek Harness.
 - [proteus-evolve/proteus-evolve.github.io](https://github.com/proteus-evolve/proteus-evolve.github.io) - 
-- [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [alienzhou/html-workbench](https://github.com/alienzhou/html-workbench) - Convert existing HTML into a local visual editor for real-time AI collaboration — 将现有 HTML 转为本地可视化编辑与 AI 协同工作台。
 - [op7418/guizang-social-card-skill](https://github.com/op7418/guizang-social-card-skill) - 🪧 Claude Code / Codex skill — generate Xiaohongshu carousels & WeChat 21:9+1:1 cover pairs. Editorial × Swiss visual systems, 28 layouts, 10 themes, single-file HTML → PNG. 小红书图文 + 公众号封面对
 - [syabro/neat-annotations](https://github.com/syabro/neat-annotations) - Hand-drawn CSS annotations for inline content
@@ -998,6 +997,7 @@
 - [signalapp/Signal-Server](https://github.com/signalapp/Signal-Server) - Server supporting the Signal Private Messenger applications on Android, Desktop, and iOS
 - [hexliulab/fund-analysis-agents](https://github.com/hexliulab/fund-analysis-agents) - 基于多智能体协作的中国基金市场智能分析系统与智能管家--A smart analysis system and smart manager for the Chinese fund market based on multi-agent collaboration.
 - [apachecn/TI-Analysis](https://github.com/apachecn/TI-Analysis) - 关于中国市场培训机构运作流程及运营模式分析论文
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [apache/eventmesh-dashboard](https://github.com/apache/eventmesh-dashboard) - Apache EventMesh Dashboard
 - [apache/eventmesh](https://github.com/apache/eventmesh) - EventMesh is a new generation serverless event middleware for building distributed event-driven applications.
 - [NanoHttpd/nanohttpd](https://github.com/NanoHttpd/nanohttpd) - Tiny, easily embeddable HTTP server in Java.
@@ -1030,7 +1030,6 @@
 - [apache/amoro](https://github.com/apache/amoro) - Apache Amoro(incubating) is a Lakehouse management system built on open data lake formats.
 - [mateaix/matecloud](https://github.com/mateaix/matecloud) - 🔥MateCloud是一款基于Spring Cloud Alibaba的微服务架构。目前已经整合Spring Boot 4.0.8、 SpringCloud 2025、Spring Cloud Alibaba 2025、Spring AI 2.0.1、Spring Security Oauth2、Feign、Dubbo、JetCache、RocketMQ等，支持多租户的低代码平台，Saas平台开发
 - [alibaba/jetcache](https://github.com/alibaba/jetcache) - JetCache is a Java cache framework.
-- [LangChat/langchat](https://github.com/LangChat/langchat) - LangChat: Java LLMs/AI Project, Supports Multi AI Providers( Gitee AI/ 智谱清言 / 阿里通义 / 百度千帆 / DeepSeek / 抖音豆包 / 零一万物 / 讯飞星火 / OpenAI / Gemini / Ollama / Azure / Claude 等大模型), Java生态下AI大模型产品解决方案，快速构建企业级A
 - [agents-flex/agents-flex](https://github.com/agents-flex/agents-flex) - Agents-flex is A lightweight Java AI agent development framework (positioned as a counterpart to Spring AI). It supports features such as RAG, MCP, Skills, Text2SQL , LLM Wiki, Sub-agents, Web Search,
 - [aizuda/snail-job](https://github.com/aizuda/snail-job) - 🔥🔥🔥 灵活，可靠和快速的分布式任务重试和分布式任务调度平台
 - [spring-projects/spring-ai](https://github.com/spring-projects/spring-ai) - An Application Framework for AI Engineering
@@ -1407,7 +1406,6 @@
 ## JavaScript 
 
 - [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) - A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表
-- [browser-use/browser-use-pi](https://github.com/browser-use/browser-use-pi) - A tiny TypeScript web agent, hill climbed on real browser evals.
 - [oil-oil/selector](https://github.com/oil-oil/selector) - Visual element picker bookmarklet — select elements, annotate instructions, copy prompt for AI
 - [mujingquan835/dashiai-ppt-skill](https://github.com/mujingquan835/dashiai-ppt-skill) - 大师 PPT：由 @大师的AI小灶 维护的可编辑 PPTX 生成、网页编辑与安全返工 Skill
 - [ricocc/shoteasy](https://github.com/ricocc/shoteasy) - 设计师制作的在线截图 / 图片美化编辑器，支持多种功能，纯前端
@@ -1924,6 +1922,7 @@
 - [pyang5166/gbro-cover-design](https://github.com/pyang5166/gbro-cover-design) - 公众号/小红书封面提示词生成 skill：3:4 竖版、10 种构图风格、三轮提问、真人出镜人脸一致性
 - [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) - 
 - [sbj61188-lab/compose-photo-memory-archive](https://github.com/sbj61188-lab/compose-photo-memory-archive) - An open-source AI skill for transforming photographs into editorial memory archive artworks.
+- [revfactory/harness](https://github.com/revfactory/harness) - A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.
 - [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) - A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP mascot logos.
 - [agentplugins/agent-plugins-example](https://github.com/agentplugins/agent-plugins-example) - Canonical example and migration guide for the Agent Plugins v1 specification.
 - [agentplugins/agent-plugins-spec](https://github.com/agentplugins/agent-plugins-spec) - Agent Plugins Specification v1.0.0 — A minimal standard for packaging agent extensions into distributable plugins
@@ -2665,7 +2664,7 @@
 - [GCWing/OpenBitFun](https://github.com/GCWing/OpenBitFun) - OpenBitFun combines a high-performance agent runtime written in Rust with a polished desktop application. It pairs the depth of a Code Agent with open, general-purpose capabilities for work beyond sof
 - [jerrywu001/cc-sessions-viewer](https://github.com/jerrywu001/cc-sessions-viewer) - support cc/codex/grok build/kimicode/pi/antigravity cli/opencode sessions viewer, skills manage, token usage statistics, global search, resume, and export to html
 - [BigPizzaV3/CodexPlusPlus](https://github.com/BigPizzaV3/CodexPlusPlus) - An enhanced tool for CodexApp, striving to make Codex better to use and more comfortable 一个CodexApp的增强工具，努力让Codex变得更好用更舒服
-- [yuxino/kiri](https://github.com/yuxino/kiri) - Local-first screenshots, annotation, OCR, screen recording and video editing for macOS and Windows. 截图标注、文字识别、录屏与视频剪辑。
+- [yuxino/kiri](https://github.com/yuxino/kiri) - Local-first screenshots, annotation, OCR, screen recording and video editing for macOS and Windows, plus experimental Linux capture (Ubuntu/GNOME, Wayland/X11). 截图、OCR、录屏与剪辑；Linux 实验支持。
 - [longbridge/gpui-kit](https://github.com/longbridge/gpui-kit) - Rust GUI components for building fantastic cross-platform desktop application by using GPUI.
 - [mco-org/squad](https://github.com/mco-org/squad) - Multi-AI agent terminal collaboration tool
 - [screenpipe/screenpipe](https://github.com/screenpipe/screenpipe) - YC (S26) | Open Computer History | Record your screen continuously locally and provide context to your agents (Claude, Codex, Openclaw, Hermes, Runner...)
@@ -2950,6 +2949,7 @@
 - [1lck/Lithe-IDEA](https://github.com/1lck/Lithe-IDEA) - A lightweight, cross-platform IDE for the AI era, with on-demand tools and services.
 - [nilbuild/driver.js](https://github.com/nilbuild/driver.js) - A lightweight, dependency-free JavaScript library for guiding user focus across the page.
 - [Qiuner/birdview](https://github.com/Qiuner/birdview) - Stop letting AI code blind. Map the architecture before every change with Birdview.
+- [browser-use/browser-use-pi](https://github.com/browser-use/browser-use-pi) - A tiny TypeScript web agent, hill climbed on real browser evals.
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
 - [starc007/ui-components](https://github.com/starc007/ui-components) - Motion components for React.  Copy, paste, done.
 - [Gimanh/taskview-community](https://github.com/Gimanh/taskview-community) - TaskView is a self-hosted project and task management platform focused on clarity, ownership, and control. TaskView is built for teams that want a transparent, self-hosted alternative to SaaS task man
@@ -3164,7 +3164,7 @@
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - The IDE built for AI coding agents.
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
-- [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) - Make AI coding agents safe to scale autonomously: assign work, cap spend, enforce policy, verify output, roll back failures, learn from loops, and prove ROI across every repo.
+- [Keesan12/martin-loop](https://github.com/Keesan12/martin-loop) - Run coding agents without babysitting them. Keep jobs focused, bounded, checked and accountable from start to finish. Finally run your agents swarms overnight and get your time back.
 - [ntegrals/openbrowser](https://github.com/ntegrals/openbrowser) - Let AI agents browse the web. An autonomous toolkit for browser-based AI agents.
 - [Undertone0809/rudder](https://github.com/Undertone0809/rudder) - Open-source local Agent harness for self-improving agent teams: run agents, review work, and turn feedback into reusable skills.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
@@ -3352,7 +3352,6 @@
 - [YishenTu/claudian](https://github.com/YishenTu/claudian) - An Obsidian plugin that embeds Claude Code/Codex as an AI collaborator in your vault
 - [assistant-ui/tool-ui](https://github.com/assistant-ui/tool-ui) - UI components for AI interfaces
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
 - [anthropics/sandbox-runtime](https://github.com/anthropics/sandbox-runtime) - A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [shenpeiheng/ai-smart-draw](https://github.com/shenpeiheng/ai-smart-draw) - ai-smart-draw
@@ -3943,6 +3942,7 @@
 - [toheart/goanalysis-web](https://github.com/toheart/goanalysis-web) - go源码分析平台前端界面
 - [incentius-foss/WhatTheDuck](https://github.com/incentius-foss/WhatTheDuck) - WhatTheDuck is an open-source web application built on DuckDB. It allows users to upload CSV and Parquet files, store them in tables, and perform SQL queries on the data.
 - [opencmit/pangee-cluster](https://github.com/opencmit/pangee-cluster) - 使用图形化的界面离线安装、维护、升级高可用的 K8S 集群
+- [LangChat/langchat](https://github.com/LangChat/langchat) - LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。
 - [Chanzhaoyu/chatgpt-web](https://github.com/Chanzhaoyu/chatgpt-web) - 用 Express 和  Vue3 搭建的 ChatGPT 演示网页
 - [fenixsoft/awesome-fenix](https://github.com/fenixsoft/awesome-fenix) - 讨论如何构建一套可靠的大型分布式系统
 - [pipipi-pikachu/PPTist](https://github.com/pipipi-pikachu/PPTist) - PowerPoint-ist（/'pauəpɔintist/）, An online presentation application that replicates most of the commonly used features of MS PowerPoint, allowing for the editing and presentation of PPT online. It als
